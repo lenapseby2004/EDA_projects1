@@ -1,0 +1,1005 @@
+ID,Name,Age,Gender,Location,School_Grade,Daily_Usage_Hours,Sleep_Hours,Academic_Performance,Anxiety_Level,Phone_Usage_Purpose,Family_Communication,Screen_Time_Before_Bed,Phone_Checks_Per_Day,Weekend_Usage_Hours,Addiction_Level
+1,Shannon Francis,13,Female,Hansonfort,9th,4,6.1,78,10,Browsing,4,1.4,86,8.7,10
+2,Scott Rodriguez,17,Female,Theodorefort,7th,5.5,6.5,70,3,Browsing,2,0.9,96,5.3,10
+3,Adrian Knox,13,Other,Lindseystad,11th,5.8,5.5,93,2,Education,6,0.5,137,5.7,9.2
+4,Brittany Hamilton,18,Female,West Anthony,12th,3.1,3.9,78,9,Social Media,8,1.4,128,3,9.8
+5,Steven Smith,14,Other,Port Lindsaystad,9th,2.5,6.7,56,1,Gaming,10,1,96,3.7,8.6
+6,Mary Adams,13,Female,East Angelachester,10th,3.9,6.3,89,7,Social Media,7,1.1,135,6,8.8
+7,Hailey Moses,16,Male,North Jeffrey,11th,6.3,6.7,89,6,Education,7,0.8,129,7.8,10
+8,Veronica Marshall,13,Other,Jenniferport,10th,5.1,6.1,70,5,Browsing,9,1,34,8,8
+9,Edward Avila,13,Male,Leebury,8th,3,9.1,79,1,Education,10,0.9,70,9.1,7.3
+10,James Carter,18,Other,Prestonview,11th,3.9,5.8,89,9,Other,9,0.9,121,2.9,9.1
+11,Bobby Sparks,18,Female,Cherylburgh,12th,4.9,7,74,4,Other,6,0.6,84,3.5,10
+12,Ruben Walters,14,Male,Lake Mary,11th,1.6,5.9,70,10,Browsing,7,0.9,147,3.2,9.8
+13,Sarah Nguyen,19,Female,South Heatherton,10th,7.4,5.8,70,4,Gaming,8,1.1,59,9.1,10
+14,Melanie Phillips,17,Female,Port Angelaburgh,9th,8.7,5.5,95,2,Education,5,0.7,76,4.6,10
+15,Edwin Lambert,15,Other,New Emilyberg,12th,6.4,8.5,79,2,Social Media,5,0.5,50,5.6,10
+16,Gregory Hughes,19,Other,Port Charles,11th,4.4,6.6,97,8,Education,4,1.2,134,6.8,10
+17,Matthew Webb,15,Female,Lake Chase,8th,5.4,7.8,87,6,Gaming,9,0.9,36,1.4,10
+18,John Cooper,15,Other,Paulstad,10th,3,6.1,80,1,Other,7,1.2,95,7.5,10
+19,Amy Greene,19,Female,Port Nicholasberg,9th,7.9,8.5,96,5,Education,5,1,58,3.5,10
+20,Kathryn Perez,18,Male,South Thomas,12th,5.4,5.9,69,2,Browsing,7,0.6,83,6.1,10
+21,Michael Williams,15,Female,Margaretmouth,12th,3,5.1,83,1,Social Media,8,1.5,58,6.7,6.2
+22,Patricia Johnson,16,Female,North Scott,12th,2.7,6.3,92,2,Gaming,10,1.7,112,5.7,9.9
+23,Jennifer Davis,14,Other,Port Angelabury,11th,2.7,5.1,60,4,Education,5,1.7,117,4.8,9.5
+24,Desiree Brady,19,Male,East Amanda,9th,6.9,3.6,79,5,Education,7,0.8,32,6.6,10
+25,Mark Crawford,19,Other,Port Alan,12th,4.6,7.2,85,7,Social Media,8,1.1,71,6.2,6
+26,Samantha Sanchez,16,Male,Port Bianca,11th,5.5,5.9,78,1,Gaming,3,0.7,44,3.9,8.4
+27,Kelly Giles,19,Male,West Kimberlyfurt,11th,6.2,4.5,65,5,Social Media,7,1.1,115,6.6,10
+28,Jeffrey Crawford,19,Male,Shawburgh,8th,4.9,9.3,50,7,Education,3,0.3,117,7,10
+29,Tammy Gallegos,17,Female,West Cynthia,10th,6.6,8.1,77,6,Education,8,1.5,147,9.2,10
+30,Jared Bridges,19,Other,Jessicaberg,11th,8.6,5.2,63,6,Browsing,9,1.3,72,6.6,10
+31,Bailey Flores,15,Other,Lake Martha,12th,4.1,4.5,59,10,Education,9,0.6,32,9.3,7.7
+32,Jennifer Hudson,19,Male,Vickifurt,10th,4.2,6.9,86,5,Browsing,4,1,100,6.9,10
+33,Kathleen Friedman,19,Male,Port Ryan,10th,8,5.5,87,1,Gaming,6,1,26,5.2,10
+34,Cynthia Fisher,16,Male,Lake Jamiebury,9th,3.3,5.3,50,7,Gaming,5,0.3,141,5.1,10
+35,Amy Carroll,16,Male,South Williamfort,12th,4.7,6.6,59,10,Social Media,2,0.6,123,0.3,9.6
+36,Monica Roberts,15,Male,West Kristinaview,8th,3.9,6.3,64,6,Social Media,7,0.9,135,2.2,8.4
+37,Laura Steele,13,Female,Burketown,8th,4.4,6.8,62,2,Browsing,1,1.7,66,6.9,4.6
+38,Lauren Matthews,13,Male,Christineton,9th,8.3,6.2,65,5,Other,1,1.3,144,2.9,10
+39,Marcus Stephens,16,Other,Schmitthaven,9th,7.4,6.9,67,6,Social Media,8,1.6,117,4.6,10
+40,Cameron Hansen,16,Female,North Christina,12th,1.7,6.8,68,5,Education,6,0.7,107,6.2,7
+41,Richard Choi,13,Other,Jasonmouth,8th,6.2,8.3,77,7,Browsing,8,1.1,141,6.2,10
+42,Nicholas Gomez,19,Other,Roberttown,12th,5.2,7.2,96,4,Gaming,3,0.7,119,6.1,10
+43,Jessica Smith,15,Other,Andreville,11th,3.3,5.3,89,9,Gaming,9,0.3,77,10.4,7.9
+44,Brittany Myers,13,Male,Nguyenfort,11th,6.9,6.2,89,3,Gaming,9,0.3,140,4.1,10
+45,Alicia White,13,Male,Millerton,9th,6.6,5,88,10,Education,9,2,56,6.2,10
+46,Brandi King,18,Female,Evanschester,8th,1,6.2,60,6,Gaming,4,0.4,25,5.8,4.7
+47,Kenneth Travis,17,Male,Castilloside,8th,6.7,4.7,67,10,Gaming,7,0.8,129,9.9,10
+48,James Sanchez,19,Other,Adamsside,11th,7.1,7.1,67,1,Gaming,4,2.6,119,5.3,10
+49,Tyrone Cabrera,18,Male,New Ericview,7th,4.7,6.5,69,10,Gaming,10,1.3,119,4.7,9.2
+50,Curtis Castro,14,Male,East Amber,11th,8.1,7.2,91,8,Education,9,0.3,120,6,10
+51,Steven Chavez,14,Male,Yuport,9th,4.3,5.9,75,5,Other,1,2.2,105,3.1,10
+52,Cody Young,17,Male,Savagetown,11th,3.9,8.4,97,1,Education,6,1.2,66,4.9,9.5
+53,Victoria Clark,13,Other,Collinston,9th,9,7.3,79,1,Education,1,0.8,127,6.9,10
+54,Peggy Bond,15,Other,East Laurieview,8th,4.5,7.8,93,7,Education,8,1.3,83,6,9.5
+55,Candace Anderson,14,Other,Kimberlyburgh,11th,4.4,4.1,56,7,Other,10,0.8,129,6.1,10
+56,Tammy Payne,19,Other,South Thomas,12th,5.9,8.5,87,4,Social Media,2,1.5,48,6.5,8.3
+57,Mrs. Lauren Ayala,17,Other,Port Dustin,10th,3.3,6.1,78,2,Education,8,1.2,141,5.1,9.4
+58,Edward Jackson,15,Female,Davidberg,12th,2.9,5.5,71,9,Gaming,7,0.9,117,4.6,8.1
+59,Kathleen Hoffman,17,Male,Walkerburgh,11th,3.4,4.7,79,8,Other,5,0.6,123,7.6,9.4
+60,Kelly Carrillo,17,Female,West Tracey,7th,6.3,7.4,77,4,Gaming,1,1.4,110,3.1,10
+61,Derek York,19,Male,Shafferville,10th,3.7,7.9,89,8,Education,7,0.3,92,2,6
+62,Ashley Velasquez,18,Male,Johnsonstad,7th,4.7,6.9,77,6,Education,8,1,105,8.3,7.8
+63,Sara Williams,17,Other,Traceymouth,8th,6.7,7.9,54,7,Education,9,0.2,84,7.9,9.7
+64,Linda Fletcher,18,Female,Lake Samanthabury,12th,5.3,7.7,63,10,Other,9,0.7,135,5.7,9.4
+65,Jaclyn Salazar,17,Male,Alejandraburgh,12th,8.7,5.2,87,4,Gaming,6,1.2,146,5.9,10
+66,Stephanie Fletcher,17,Other,Port Jonathanside,9th,3.9,8,80,4,Social Media,2,0.3,41,5.7,5.5
+67,Zachary Parks,16,Female,Bradyton,10th,7.4,6.6,100,2,Other,9,1.3,90,9.3,10
+68,Chelsey Dillon,18,Female,Franciston,11th,6.8,10,98,7,Social Media,10,1.7,72,7.6,9.8
+69,Elijah Lewis,18,Female,Candacemouth,8th,7,8,70,8,Gaming,5,0.7,133,1.8,9.7
+70,Joseph Franklin,16,Male,West Lisaview,8th,5.8,7.2,88,9,Browsing,10,0.7,30,9.7,9.1
+71,Christine Hansen,17,Other,Jamesbury,12th,4.1,5.5,67,1,Browsing,8,0.5,120,11,10
+72,Kristen Holmes,19,Other,Hickschester,12th,4.9,4.4,86,7,Other,2,0.9,90,4.2,10
+73,Michelle Ellis,18,Male,West Erikashire,12th,4.4,6.6,95,8,Education,1,0.6,91,3.9,9.7
+74,Dr. David Howard,19,Male,South Taylortown,8th,6.3,3,58,5,Other,6,0.6,48,8.5,10
+75,Michael Tucker,15,Male,New Gregstad,9th,5.8,6.9,84,3,Social Media,6,0.5,106,5.5,10
+76,Brenda Lee,13,Female,Morganshire,8th,6.5,7.2,58,9,Gaming,9,1.1,74,8.7,10
+77,Jennifer Levine,17,Female,West Michael,9th,5.8,7,76,5,Education,9,1.7,116,3.3,10
+78,Joshua Moore,19,Other,Gonzalezland,7th,5.1,7,64,10,Gaming,2,1.7,140,7.7,7.6
+79,Marcus Gibson,13,Other,East Thomas,8th,5.2,6,87,1,Gaming,6,1.6,79,3.7,10
+80,Mackenzie Wright,13,Male,Antoniohaven,11th,4.8,8.6,78,3,Social Media,7,1,51,7.1,8.7
+81,Christopher Smith,19,Male,Lake Susanport,11th,4.3,4.3,91,9,Social Media,8,0.9,98,5.2,8.3
+82,Andrew Kim,19,Female,North Cristina,7th,7.6,6.4,88,6,Gaming,7,1.8,77,7.1,10
+83,Rebecca Reynolds,17,Female,Lake Adrianberg,7th,5.5,6.9,65,6,Browsing,4,0.4,82,6.2,7.6
+84,Catherine Bradshaw,15,Other,Sarahfurt,10th,4.8,6.3,76,2,Social Media,8,1.1,136,5.3,10
+85,Tammy Carter,19,Other,Marktown,9th,7.4,6.3,75,9,Social Media,1,0.3,85,7.6,10
+86,Maria Ochoa,16,Male,South Tonyton,12th,3.8,5.1,85,8,Social Media,9,0.6,104,9.3,7.6
+87,James Herrera,13,Other,Lake Nancy,10th,7.3,5.6,84,4,Other,1,1.2,22,4.1,10
+88,Brian Coleman,19,Female,Kevinport,8th,0.7,4.6,64,10,Other,3,0.4,146,5.3,5.7
+89,Gregory Martinez,14,Male,South Adamside,11th,3,6.6,82,1,Other,9,0.6,84,6.7,8.6
+90,Richard Nichols,19,Other,East Andrewport,12th,4,7.4,83,10,Gaming,3,0.6,55,7.4,9.9
+91,Steven Tanner,16,Other,Craigstad,12th,8.1,6.8,59,7,Other,1,0.6,129,5.1,10
+92,Michael Farmer,17,Male,Guerrafort,12th,5.2,6.6,56,6,Other,5,0.5,98,8.1,10
+93,Keith Ward,18,Other,Parsonsfurt,7th,1.7,6.2,52,2,Social Media,7,1.3,76,6.5,6.5
+94,Aaron Parker,15,Male,Port Maryborough,8th,6.8,7.4,100,6,Social Media,5,1.9,123,6.8,10
+95,Wesley Miller,18,Female,Sherryton,9th,6.4,10,89,9,Education,2,0.5,128,4.6,10
+96,Tiffany Santiago,17,Male,Wilsonton,9th,7.2,7.4,63,2,Social Media,4,0.7,112,2.3,10
+97,Lindsey Sloan,18,Female,Lake Adamfort,10th,3.3,5.7,93,9,Other,10,0.1,72,6.6,10
+98,Kristin Martin,16,Male,East Patrickburgh,8th,4.7,8.5,98,4,Social Media,8,0.1,20,6.2,8.2
+99,Valerie Blevins,18,Female,East Lynn,9th,2.8,7,93,4,Social Media,10,1.5,42,8.2,5.1
+100,Morgan Mills,16,Female,East Derrick,8th,6.2,8.7,53,7,Other,7,0.5,24,6.7,8.8
+101,Christian Perkins,17,Male,East Wendymouth,9th,6.7,8.5,91,8,Browsing,8,0.2,49,5.7,10
+102,John Evans,14,Other,Port Pamelatown,8th,2.2,5.1,69,6,Other,9,1.3,24,7.6,8.1
+103,Ashley Chang,13,Female,Harrisbury,11th,4.1,6.3,57,5,Gaming,3,0.4,78,5.8,9
+104,Julia Ross,13,Male,Taraland,11th,5.3,5.9,85,6,Education,8,0.9,98,8.9,10
+105,Ashley Foster,18,Female,South Shelleyfort,8th,4.7,3.4,71,7,Education,7,1.5,87,6.7,6.6
+106,Katherine Hensley,19,Other,East Angelaland,10th,4.5,7.4,67,10,Gaming,4,0.8,68,7.4,8
+107,Christopher Watts,13,Male,South Josephstad,7th,5.6,5.8,85,1,Gaming,7,1.4,44,6.6,7.1
+108,Benjamin Bradley,15,Other,Rhondafurt,7th,7.3,5,67,8,Gaming,4,1.4,77,8,10
+109,Rebecca Edwards,18,Female,Jaredmouth,11th,4.6,9.4,55,2,Education,4,1.1,113,8.6,6.9
+110,Sarah Harrison,15,Other,North Cherylburgh,9th,2,5.9,74,2,Other,1,1.1,47,4.4,5.7
+111,Kimberly Hooper,14,Male,Bentleytown,9th,1.6,6.1,70,9,Social Media,3,1.6,42,1.8,6
+112,Melissa Becker DDS,18,Other,East Pamelaside,9th,2,7.5,76,1,Gaming,10,0.9,115,5.6,5.2
+113,John Griffin,16,Male,Loveberg,10th,3,4.7,51,1,Education,3,0.3,42,6.7,10
+114,James Alvarez,15,Female,Port Veronicamouth,9th,6.9,3.9,73,1,Education,3,0.8,58,4.9,10
+115,Brad Sanchez,16,Other,Port Samanthaberg,8th,5.5,5.4,63,5,Other,1,2,72,8.3,8.4
+116,Cory Santiago,15,Female,Robertshire,11th,6.6,9.5,53,8,Gaming,6,0.8,121,6.4,10
+117,Shelley Curtis,19,Other,South Brittanychester,12th,8.3,5.7,58,3,Other,10,0.1,21,6.5,10
+118,Cheryl Thomas,18,Other,East Chadhaven,8th,3.6,3.1,56,5,Social Media,7,0.9,80,7.3,10
+119,Meagan Banks,17,Male,Glennshire,9th,5.4,3.1,88,7,Social Media,3,0.7,29,1.7,9.8
+120,Dr. Elizabeth Porter,19,Other,Mirandaborough,9th,2.1,7.3,71,4,Education,5,1.7,54,2.1,5.3
+121,Monica Shelton,16,Male,Brownchester,7th,7.8,7.4,81,5,Browsing,6,1.1,135,4.5,10
+122,Heather Wilson,14,Male,Chelseafurt,9th,4.3,3.9,64,10,Other,4,0.6,119,6.7,9
+123,Angie White,18,Other,West Maryport,12th,7.4,7.4,80,1,Gaming,10,1.9,57,4.6,10
+124,Grace Mullen,18,Female,West Donna,7th,6.4,7.9,72,5,Other,3,0.7,23,7.4,8.6
+125,Megan Colon,13,Other,West Jeremy,9th,2,8.4,78,5,Gaming,1,0.4,140,5.1,6.8
+126,Christine Cunningham,15,Male,Lake Laurastad,8th,2.6,6.8,65,6,Other,6,1,26,9.5,5.5
+127,Sonya Armstrong,13,Other,North Brian,7th,4.4,5,68,2,Browsing,2,1.8,70,5.1,10
+128,Heather Johnson,16,Other,Masonbury,8th,4.8,6.5,57,9,Education,3,0.8,68,7.9,10
+129,Jennifer Chen,15,Other,Port Anthony,10th,7.7,5.9,75,2,Browsing,2,1,74,4.2,10
+130,Charles Williams,17,Other,Lisaport,12th,4.2,5.6,88,9,Gaming,5,1.1,58,7.1,10
+131,Denise Peters,17,Other,Jonathonfort,12th,4.6,5.7,98,8,Browsing,3,1.1,46,7.4,10
+132,Pamela Torres,19,Male,Swansonhaven,9th,2.9,6.5,94,8,Gaming,4,1.3,126,3.4,9.6
+133,Sandra Hanson,14,Female,East Calebburgh,10th,6.8,5.5,55,9,Browsing,8,1.1,129,4.9,10
+134,Donna Shaffer,18,Male,Hugheschester,9th,4.7,5.9,61,10,Social Media,3,2,95,5.1,10
+135,Erin Garcia,19,Female,Nicholsburgh,10th,4.1,7.6,85,3,Other,3,0.8,25,7.7,8
+136,Amy Smith,14,Female,Port Jordanmouth,8th,0,6,75,5,Education,1,1.2,111,3.6,5.2
+137,Megan Knight,15,Female,Kimberlychester,7th,4.3,9.3,61,7,Other,5,0.3,31,6.4,6.5
+138,Valerie Henderson,13,Male,Melissashire,9th,3.3,8,60,6,Education,9,1.6,70,4.9,9.2
+139,Austin Nelson,14,Female,Wagnermouth,7th,8,5.8,79,1,Browsing,4,0.7,130,4.5,10
+140,Michael Evans,17,Other,Marioville,9th,5,5.1,90,6,Browsing,9,0.7,68,8.3,10
+141,Diane Day,18,Other,Lake Rachel,11th,2.5,4.8,51,6,Gaming,5,0.5,83,4.5,5
+142,Brian Mcdonald,14,Female,Meghanfurt,12th,4.8,4,81,9,Browsing,6,1.4,124,4.7,10
+143,Eric Hunter,18,Other,New Julie,11th,5,5.5,71,7,Browsing,7,1,92,9,9
+144,Victoria Huff,16,Female,Donnaside,11th,7.1,3,56,1,Other,5,1.4,116,4.1,10
+145,Ana Le,18,Female,Cameronbury,7th,7.9,6.5,55,8,Gaming,9,2,97,2.4,10
+146,Daniel Robinson,14,Male,Parksfurt,12th,7.4,6.4,81,4,Social Media,5,1.4,116,3.9,8.9
+147,Justin Collins,15,Female,New Kellystad,11th,2.5,5.4,66,9,Social Media,9,0.6,85,5,7.4
+148,Paula Jones,19,Male,Blackburnhaven,9th,6.4,7.8,62,6,Other,5,0.6,41,9.4,10
+149,Kathryn Matthews,16,Other,Lake Luis,10th,7,7.9,89,3,Other,9,1,56,3.2,9.6
+150,Michelle Jones,13,Female,Matthewland,9th,5.1,4.3,63,4,Browsing,1,0,49,7.9,8.9
+151,Erica Brown,14,Male,Nancyfort,9th,6.9,7.1,98,8,Gaming,10,1.2,54,6.9,7.9
+152,Michelle Perez,13,Female,West Alanfort,10th,4,6.2,59,10,Social Media,5,0.7,114,6.9,10
+153,Steven Davis,16,Male,Sanchezport,8th,6.6,9.4,82,7,Gaming,5,0.3,83,3.5,10
+154,Lynn Smith,18,Male,North Saraburgh,10th,5.7,6.2,77,4,Education,3,2,115,6.2,10
+155,Maria Fuller DDS,13,Other,South Jamesborough,8th,2.9,5.8,67,7,Education,8,1.1,86,7,8.6
+156,Sheila Bennett,17,Female,Boothside,9th,4.8,4.1,63,9,Gaming,4,0.3,91,8,10
+157,Elizabeth Harding,16,Female,Wilsonside,8th,7.3,6.3,77,3,Browsing,4,0.7,138,8.6,10
+158,Bradley Jones,13,Female,West Kathleen,8th,4.9,5.6,98,4,Other,1,0.5,121,6.3,10
+159,Juan Carpenter,19,Male,Flowersshire,12th,6.7,5.9,79,2,Browsing,5,0.2,130,3.1,10
+160,Michael Garcia,19,Other,Prestonfort,12th,2.2,8.2,60,10,Gaming,2,0.5,70,9.7,6
+161,Michael Parker,13,Male,New Christianfort,8th,3.3,7.6,55,4,Browsing,1,1.2,47,7.2,6.2
+162,Alan Torres,14,Other,Port Melvinshire,9th,6.8,4.8,76,2,Other,5,0.9,142,7.9,10
+163,Mary Roman,18,Other,Richardbury,11th,5.2,6.6,93,8,Education,10,1.1,36,7.5,10
+164,Joshua Moore,19,Male,Jamieville,11th,6,3.1,78,4,Browsing,3,0.6,130,10,10
+165,Douglas Mason,15,Other,New Darlene,12th,5.9,5,74,9,Gaming,2,0.8,94,4,10
+166,Donna Morgan,19,Female,Kellyton,10th,3.7,4.6,72,4,Gaming,10,1.2,146,4.6,10
+167,Russell Klein,17,Male,Port Waynehaven,10th,8.4,7.7,57,6,Education,10,0.5,49,4.6,10
+168,Alexander Bailey,15,Other,Jasminville,10th,0.8,7.4,70,9,Browsing,6,0.8,67,8.9,4.2
+169,Jordan Shelton,18,Other,Michelleside,7th,7.2,3,84,3,Education,4,0.9,83,6.4,10
+170,Robert Decker,13,Male,Adammouth,11th,4.6,5.3,91,10,Social Media,6,0.8,129,3.4,9.5
+171,Travis Ponce,19,Male,Port Natalie,11th,2.4,6.8,63,9,Other,1,0.8,50,8,6.5
+172,Jennifer Young,16,Female,East Christopher,8th,4.3,6.6,94,2,Social Media,5,0.8,47,0.7,8.3
+173,David Logan,14,Other,Duanebury,8th,6.8,6.1,92,9,Other,5,1,46,2.9,9.7
+174,Jonathan Roberts Jr.,13,Other,Lake Willieshire,11th,6.3,5.4,100,5,Browsing,5,1.8,30,5.5,9.6
+175,William Wolfe,13,Female,Joneschester,10th,5.3,9.7,52,3,Education,6,1.7,145,7.3,8.8
+176,Sharon Smith,17,Other,North Anne,9th,4.4,5.7,99,1,Other,2,0.9,58,4.3,8
+177,Brittany Kirk,16,Other,New Alicia,10th,8.1,6.7,50,4,Other,7,0.5,63,7.2,9.5
+178,Michael Harris,13,Other,Lake Lori,9th,3.6,6,65,5,Education,4,1.6,83,4.5,7.8
+179,Michael Rodriguez,17,Other,Johnsmouth,7th,5,5.5,66,2,Social Media,1,1.4,129,7.1,10
+180,Anthony Andrews,17,Other,Banksshire,8th,4.1,7.2,57,3,Gaming,7,1.4,145,6.7,8.6
+181,Dorothy Patel,19,Other,East Jakehaven,10th,4.3,9.2,53,10,Social Media,2,1.6,47,5.6,7.3
+182,Diana Hess,18,Male,Mccannshire,10th,4.2,7.6,58,4,Education,9,1.1,59,4.3,8.4
+183,Jeffrey Franklin,18,Male,Sharonside,8th,6.4,4.4,60,7,Browsing,5,0.6,42,5.9,10
+184,Christopher Juarez,16,Female,Peterfort,9th,3.3,7.2,74,2,Other,6,1,111,4.3,7.6
+185,Michael Crane,19,Female,Kerrchester,12th,5.7,8,96,3,Gaming,3,1.5,65,7.8,10
+186,Michelle Scott,16,Other,Taylorbury,10th,5.7,6.2,97,7,Social Media,5,0.8,134,5.2,10
+187,Brianna Clark,13,Other,Andrewview,9th,1.8,4.1,98,9,Other,5,0.5,49,7.8,6.4
+188,Michael Morris,17,Female,North Michaelland,9th,0.2,5.4,60,6,Gaming,10,2.4,102,6.6,5.8
+189,Alyssa Webb MD,16,Female,Jonesbury,8th,2.7,6.9,55,6,Education,8,2.1,139,7.6,9.1
+190,Holly Williams,17,Male,Lake Sabrinaburgh,9th,4.3,6.7,93,7,Social Media,8,0.8,33,4,6.7
+191,Audrey Hall,16,Other,Michaelside,7th,4.5,6.5,85,10,Education,8,0.5,22,5.7,10
+192,Barbara Hancock,18,Male,Martinport,8th,4.6,5.6,91,3,Social Media,3,0.7,128,3,10
+193,Luke Klein,16,Other,Parkerfurt,12th,7.5,5.9,84,7,Browsing,8,1.6,76,11.5,10
+194,Christopher Newman,16,Other,Brandonbury,12th,5.3,6.1,98,9,Other,1,1.1,51,6.1,7.9
+195,Eric Bryant,15,Other,Lake Crystalborough,12th,4.9,4.8,73,5,Education,8,1.1,105,4.2,8.4
+196,Kendra Everett,15,Male,Jacksonborough,9th,5.4,6.9,57,9,Education,3,1.2,45,5.9,5.3
+197,Jasmine Lin,14,Other,Ericamouth,9th,0.5,6.2,57,6,Education,8,0.9,73,5.7,6.6
+198,David Castaneda,17,Other,North Isaiahbury,9th,7.6,6,100,4,Gaming,8,1,105,9.4,10
+199,Teresa Nelson,19,Male,Hollyton,7th,7.6,3,69,5,Social Media,5,0.5,66,5.8,10
+200,Ronald Davis,19,Female,Kimberlybury,10th,2.5,5.6,87,8,Browsing,2,1.6,90,6.9,8.7
+201,Brandon Green,19,Female,Debrafurt,7th,5.5,6.4,93,8,Education,4,1.5,57,9.9,9
+202,Megan Bowman,16,Female,Lake Brian,12th,2.7,4.6,51,4,Education,6,1.3,100,4.3,9.6
+203,Melissa Castro,19,Male,West Samantha,10th,7,5.4,96,5,Other,9,1.2,100,3.4,10
+204,Alex Valdez,16,Female,South Stephaniebury,9th,5.3,5,83,7,Education,9,1,22,1.7,10
+205,Fernando Alexander,15,Female,West Melissabury,9th,4.7,5.3,94,9,Social Media,4,0.5,104,4.5,10
+206,Alexandra Lin,19,Other,New Kristen,9th,5.4,4.9,68,1,Other,3,0.6,127,3.3,10
+207,Amber Payne,17,Other,West Melissa,10th,8.5,5.2,63,9,Social Media,9,1.1,59,9,10
+208,Kimberly English,17,Other,East Deborahchester,8th,6.2,4.4,56,1,Browsing,5,1.5,46,2.9,10
+209,Sharon Schwartz,16,Female,Sabrinaton,11th,2.7,5.1,82,3,Education,2,0.5,67,1.8,9.3
+210,Jeffrey Mendoza,17,Male,Angelaside,11th,3.5,5.1,77,1,Other,2,1.2,91,7.7,7.5
+211,Devin Hansen,18,Female,North Catherine,8th,3.5,7.2,94,1,Gaming,10,2,84,5.2,9.4
+212,Brandy Miller,14,Male,Lake Raymond,7th,6.6,5,84,2,Gaming,5,0.4,63,6.7,10
+213,Adam Turner,16,Other,New Vincent,11th,6.1,7.5,71,7,Education,9,1.5,39,5.8,10
+214,Kathleen Price,17,Other,Emmamouth,10th,3.3,5.6,59,7,Education,9,1.2,140,1.8,8.6
+215,Bryan Horton,13,Male,New Teresa,10th,6.3,7.2,81,3,Social Media,7,1.9,77,5,10
+216,Tina White,14,Male,Cruzland,11th,6.5,7.9,93,9,Browsing,10,0.6,113,7.1,10
+217,Corey Howell,19,Other,West Colin,8th,4.6,8.4,84,3,Other,9,0.5,51,6.8,10
+218,Matthew Gutierrez,13,Other,Schultzfurt,11th,1.6,6,75,8,Education,10,0.3,62,4.1,6.1
+219,Jennifer Gomez,18,Male,Jonesside,8th,8.1,7.7,71,9,Other,9,1.4,143,6.4,10
+220,Amy Ponce,16,Female,East Williamborough,11th,4.7,5.8,51,2,Browsing,6,0.3,60,5,10
+221,Kimberly Mcdowell,15,Other,Elliottton,9th,8.8,7.1,59,10,Browsing,8,1.1,141,5.5,10
+222,Caitlin Cook,17,Female,Floresview,9th,8.9,7,93,9,Browsing,9,0,70,4.4,10
+223,Kyle Mercado,17,Male,Leonardfurt,12th,3,3.5,83,1,Social Media,1,0.6,35,9.6,10
+224,Daniel Carlson,13,Male,West Tammy,12th,4.5,7.8,74,7,Browsing,4,1.3,104,4.1,6.5
+225,Kathryn Cox,17,Female,Smithton,8th,5.4,7.5,57,4,Other,1,0.4,80,5.1,10
+226,Brandon Soto,15,Other,New Jaimemouth,11th,6.3,3,74,6,Education,2,0.7,95,3.1,10
+227,Scott Thompson,16,Female,Markport,10th,5.9,5.8,71,6,Other,4,1.5,76,7.7,10
+228,Michael Hopkins,18,Female,North Austin,9th,10.6,9.1,93,10,Other,8,1.4,36,6.3,10
+229,Wyatt Mills,15,Female,Campbellland,12th,4.3,6.3,87,3,Gaming,7,1.1,129,6.1,10
+230,Daniel King,16,Female,Lake Roger,8th,7.9,6.5,61,1,Other,5,1.1,49,5.7,10
+231,Abigail Mitchell,16,Male,Ortegafort,8th,2.8,5.9,57,6,Browsing,2,1,81,8,8.1
+232,Russell Pittman,13,Male,Lake Brent,9th,3.8,6.7,60,4,Other,5,1.1,24,7.7,7.8
+233,Stephanie Simpson,13,Other,Alyssaton,7th,5.6,9.4,83,9,Browsing,8,1.2,77,4.3,10
+234,Bianca Williams,19,Female,North Reginahaven,8th,9.7,5.8,76,2,Gaming,7,1.5,100,7.6,10
+235,Joshua Obrien,18,Male,Lawrencefort,11th,4.3,8,74,8,Browsing,1,1.3,22,5.1,8.9
+236,Justin Clark,16,Male,Port Royfurt,7th,5,3.3,98,5,Social Media,7,0,48,5.2,10
+237,Ryan Fletcher,17,Female,Ashleytown,9th,4.8,10,57,10,Other,7,0.2,92,1.5,6.4
+238,Matthew Floyd,13,Male,Katherineport,7th,4.2,7,62,8,Other,6,0.9,68,4.3,8.6
+239,Kelly Vasquez,16,Male,South Dawn,11th,8.4,7.7,99,6,Gaming,1,0.3,143,8.1,10
+240,Amanda Jacobs,19,Other,Lake Janetborough,10th,6.2,7.9,79,1,Gaming,10,0.7,71,8.1,8.6
+241,Angela Parrish,16,Female,East Kyle,8th,4.8,5.4,82,5,Gaming,7,0.9,39,7.9,8.7
+242,Lauren Flynn,17,Female,Port Marcus,8th,8,7.7,75,4,Social Media,3,0.2,107,5.3,10
+243,Tara Stevens,13,Female,West Carlos,12th,6.7,3.5,74,2,Social Media,7,0.6,70,7.1,10
+244,Joseph Sellers,19,Other,East Paula,8th,7.2,4.4,52,6,Browsing,5,0.5,50,6.4,10
+245,Daniel Mullen,17,Female,New Rebeccamouth,11th,6,5.6,89,1,Social Media,7,1.6,112,4.7,10
+246,Edward Bradley,17,Other,Port Lindseyberg,9th,7.4,4.6,86,8,Social Media,2,1.6,90,7,10
+247,James Mcconnell,15,Female,South Steven,9th,7.5,8.5,82,3,Gaming,3,2.2,45,6.2,10
+248,Emma Hendrix,16,Male,Aprilburgh,7th,7,6.8,77,10,Social Media,6,0.6,140,5.1,10
+249,Spencer Cook,15,Female,East Kelly,10th,5.8,7.3,77,10,Education,8,1.2,74,5.9,8.7
+250,Robert Ramirez,13,Female,Lake Brandonburgh,7th,3.9,8,57,1,Other,1,2.1,92,7.3,6.1
+251,Linda Cooley,17,Other,Lake Rebecca,11th,5.3,6.2,91,6,Social Media,2,0.8,143,7.3,10
+252,Anne Gonzales,14,Male,Lisaland,9th,3,5.6,77,7,Education,1,1.4,27,5.3,9
+253,Travis Ellis,18,Male,Lake Tonyfort,11th,4.2,6.2,58,6,Browsing,2,0.3,90,7,7.2
+254,Nicole Reynolds,17,Male,West Ryan,11th,7.8,6.6,85,1,Other,2,1.7,148,6.9,10
+255,Ivan Martinez,18,Other,Sophiachester,12th,5,6.6,82,7,Other,1,0.4,25,4.8,6.5
+256,Tara Carter,19,Male,West Michaelland,9th,6.4,5.1,89,4,Gaming,5,1.5,139,5.3,10
+257,Alicia Hill,16,Other,Lake Davidfort,9th,4.7,3,83,8,Social Media,10,1,102,6.8,9.5
+258,Victoria Morgan,18,Female,Lake Ashley,12th,6.1,5.3,94,1,Education,6,1.2,100,7.8,10
+259,Joseph Sweeney,13,Other,Reyeston,11th,5,5.4,71,10,Social Media,2,1.1,83,4.6,10
+260,Maria Mendez,14,Female,Shawnfurt,11th,3.4,8.4,72,6,Education,10,1,32,2.8,6.8
+261,Ruben Adams,18,Female,Brandyview,7th,2,7.1,59,9,Other,7,0.9,128,9.7,5.7
+262,Robert Morrow,19,Female,Garymouth,11th,6.6,6.9,83,4,Browsing,8,1.2,40,1.6,10
+263,Jeffrey Dunn,19,Male,Derrickmouth,12th,2,7.9,99,10,Browsing,8,1.4,103,7.4,4.9
+264,Shane Jefferson,15,Male,Wagnershire,12th,3.5,6.5,100,8,Gaming,7,0.9,150,2.7,8.1
+265,Christine Webb,14,Male,Rachelside,8th,8,4.8,74,6,Gaming,6,0.8,80,1.5,10
+266,Christopher Walker,14,Other,South Kimberly,11th,7.5,6.2,65,1,Browsing,8,0.5,77,4.9,10
+267,William Lee MD,19,Female,Martinshire,7th,5,7.6,77,6,Other,8,1.4,106,4.2,10
+268,Robin Smith,19,Female,Rebeccaborough,8th,1.6,4.8,83,10,Browsing,8,0.7,20,6.1,5.4
+269,Anthony Young,18,Male,Port Brandon,7th,8.2,5.1,79,9,Other,7,0.8,90,6.3,10
+270,Michael Williams,17,Male,East Kevinville,11th,4,3.3,69,3,Gaming,6,1,142,10.8,10
+271,Aaron Thomas,17,Female,Markfurt,8th,3.5,10,50,7,Education,7,1,50,4.3,4.4
+272,Michele Galvan,14,Male,North Robertstad,7th,2.6,7,94,4,Gaming,10,0.9,150,8.3,7.5
+273,Christina Wilson,13,Male,Laurietown,7th,7.6,7.8,93,7,Other,2,1.2,67,6.8,10
+274,Sandra Bolton,15,Male,West Michael,9th,7.1,9.6,92,3,Social Media,6,0.7,33,6.6,6.2
+275,Patrick Li,14,Female,North Richard,10th,6.8,5.8,77,5,Social Media,2,1.8,21,9.7,7.8
+276,Colleen Norris,15,Female,West Nathan,12th,3.7,5.5,57,2,Gaming,7,1,33,3.6,8.2
+277,Valerie Munoz,15,Male,Tiffanyton,12th,5.2,5.2,68,5,Education,2,0.7,20,5.8,9.4
+278,Steven Atkinson,14,Female,North Johnstad,9th,6.2,6.2,80,4,Browsing,7,0.2,35,4.2,9.6
+279,Marissa Smith,14,Male,Frankhaven,12th,3.4,7.1,54,10,Gaming,10,1.5,102,8.2,8.3
+280,Jeffrey Coleman,18,Male,Lake Richardside,10th,3.2,5.4,78,4,Social Media,7,0.4,145,4.6,10
+281,Courtney Mcclure,14,Male,Lake Stevenland,8th,3.3,4.9,93,3,Gaming,1,1.5,34,2.4,6.7
+282,John Fitzgerald,13,Other,Port Billyshire,7th,4,4.4,58,9,Social Media,9,0.8,92,5.9,10
+283,Matthew Schneider,18,Other,Lisamouth,10th,4,8.8,71,10,Other,3,1,120,5.6,10
+284,Bailey White,16,Other,Port Rebecca,7th,4.3,7,55,6,Social Media,6,0.8,142,8.2,10
+285,Neil Knight,16,Female,North Johnshire,8th,3.8,6,76,6,Other,10,0.8,123,8.2,10
+286,Rebecca Short,15,Male,Port Christina,10th,2.6,6.7,59,2,Gaming,8,1.5,50,6.4,8
+287,Mary Barrett,16,Female,Brockchester,10th,6.3,5.9,88,9,Browsing,2,0.5,141,6.7,10
+288,Nicholas Ford,19,Female,Port Jeanfurt,11th,3.3,5,92,6,Gaming,6,1.7,35,7.1,10
+289,Brandi Harrison,16,Female,West Elizabeth,11th,5.9,5,88,1,Browsing,5,0.8,112,1.8,10
+290,Taylor Sanchez,16,Other,Stephaniechester,8th,2.9,3.3,56,2,Browsing,5,1.5,89,6.2,7.7
+291,Robert Berry,18,Other,Melissatown,11th,5.5,7.5,97,8,Gaming,8,1.2,118,6,10
+292,Michele Romero,18,Female,East Steven,11th,4.7,7.2,69,8,Browsing,1,0.8,53,6.2,9.6
+293,Susan Hernandez,18,Female,East Juliaborough,9th,8.6,8.1,72,5,Social Media,5,1.5,101,2.9,10
+294,Diana Herrera,17,Female,West Tiffanystad,7th,5,4.3,66,4,Browsing,7,0.5,28,6.9,10
+295,Kimberly Adams,13,Female,Port Charles,10th,7,5.7,57,2,Education,7,1.1,57,5.4,10
+296,Steven Horne,16,Male,New Abigailborough,7th,3.4,5.5,61,2,Other,10,1.3,27,5.5,6
+297,Shawn Moreno,19,Male,Hugheshaven,10th,2.7,7.3,82,10,Browsing,5,1.3,131,6.7,6.8
+298,Claudia Kelly,17,Male,Contrerasburgh,12th,4.6,8.9,93,5,Other,4,1,44,6.2,4.4
+299,Jason Shaw,19,Female,South Nicole,12th,4.2,7.5,87,9,Other,1,0.9,75,8.3,8.9
+300,Pedro Diaz,17,Other,Wendymouth,10th,4,7.1,98,6,Education,5,0.3,79,4.9,10
+301,Xavier Ruiz,13,Female,Annafurt,7th,5.3,4.4,68,2,Gaming,4,0.4,136,10.1,10
+302,Mark Ellis,18,Other,Susanport,12th,3.3,6.7,69,6,Education,8,1.6,20,5.4,3.3
+303,Mrs. Jillian Pennington MD,17,Female,New Edwardfurt,9th,3.4,6.2,79,10,Gaming,7,0.9,109,6.2,10
+304,Joel Simmons,18,Female,Watersland,12th,3.7,6.5,99,5,Other,3,0.5,93,2.8,7.8
+305,Michelle Williams,18,Female,South Dana,11th,5.2,6.3,76,10,Social Media,3,1,125,2.8,10
+306,Bill Lopez,17,Female,Hortonmouth,8th,8.2,7.6,62,2,Social Media,3,0.8,61,7.7,9.8
+307,David Williams,13,Other,Daughertyshire,10th,6.2,6.1,67,10,Social Media,3,0.8,95,4.2,10
+308,Kimberly Vazquez,16,Female,Carlastad,10th,7,7.4,93,7,Social Media,2,1.3,94,3.5,10
+309,Kim Christian,13,Male,Millsbury,7th,3.7,5.3,79,8,Browsing,7,1.4,96,5.3,8.5
+310,Michelle Krueger,15,Other,Hernandezbury,12th,8.2,5.1,76,6,Gaming,3,0.9,29,7.5,10
+311,Jessica Herrera,15,Female,North Kellychester,9th,7.5,8.4,95,8,Browsing,8,1.9,56,5,9.9
+312,John Kim,16,Male,Lake Pamelaberg,8th,2.5,6.7,81,7,Other,5,0.6,85,7.4,5.4
+313,Marcus Walker,16,Other,Brendastad,11th,6,6.7,80,7,Education,8,1.7,133,5.4,10
+314,Rhonda Hurley,19,Female,Hartmouth,7th,4.8,4.8,59,7,Other,7,0.5,55,3.3,9.3
+315,Michele Green,16,Female,Williamsfurt,8th,4.5,8.7,57,9,Other,5,0.4,147,2.8,7
+316,Brandon Sanchez,18,Male,South Raymondmouth,9th,6.2,6.9,67,8,Education,6,1.1,122,4.7,10
+317,Latoya Thomas,18,Other,Angelaburgh,9th,7.8,5.4,91,9,Browsing,10,1,147,2.4,10
+318,Renee Lee,16,Male,West Jenniferfort,8th,6.5,6,85,8,Gaming,6,0.3,108,5.3,10
+319,Nicole Shaw,17,Other,Robertsside,8th,4.1,10,56,6,Browsing,10,0.8,128,8.9,5.5
+320,Kelly Kelly,15,Female,New Charles,9th,4,6.5,87,2,Social Media,1,1.7,59,5.3,7.6
+321,Timothy White,17,Other,Davidfort,10th,3.8,7,96,5,Social Media,3,0.4,128,5,8.7
+322,Robert Booth,13,Other,West Aaronchester,12th,5.3,5.7,76,9,Education,9,0.2,71,6.8,10
+323,Kevin Welch,18,Male,New Sherry,7th,2.4,7.2,85,9,Gaming,4,0.4,40,4.4,8.4
+324,Rachel Garrett,16,Male,West Vanessaport,12th,3.3,5.7,83,7,Gaming,10,1.6,120,8.1,10
+325,Jennifer Spencer,16,Other,East Claudiafort,12th,6.8,8.5,69,1,Other,1,1.7,50,5.3,10
+326,Ricardo Maynard,14,Male,Taraport,11th,6.2,5.8,53,3,Other,5,1.7,109,4.3,10
+327,Victoria Cisneros,14,Female,South Vincentshire,10th,3.9,5.3,63,8,Other,8,1.6,141,3,10
+328,Anthony Sutton,16,Female,Fosterberg,8th,3.7,6.7,53,10,Education,7,1.7,26,8.2,5
+329,Jonathan Nash,15,Male,Christinafurt,9th,4.5,5.3,62,4,Gaming,7,0.6,44,7.7,9.4
+330,Nicholas Pena,15,Female,Port Robinbury,11th,7.3,4.4,62,10,Other,8,1.6,62,9.1,10
+331,Thomas Huber,17,Male,New Williamchester,10th,6.9,8.3,83,3,Education,1,0.7,107,8.6,10
+332,Brandon Anthony,16,Male,New Joshua,10th,6.9,8.1,76,1,Browsing,10,0.4,67,6.5,10
+333,Daniel Reese,17,Other,Lake Danielleburgh,10th,6.8,5.4,75,9,Other,10,0.8,25,4.1,10
+334,Rose Gordon,17,Male,Port Shaunhaven,11th,4.7,6.9,78,9,Education,8,1.2,91,4.6,7.8
+335,Christina Williams,18,Female,West Tony,12th,4.3,3.8,93,1,Social Media,5,0.6,89,4.7,9
+336,Taylor Hernandez,15,Male,Port Andrea,9th,2.2,3.8,94,8,Other,4,1.4,100,6.3,10
+337,Benjamin Taylor,19,Female,East Michaelside,11th,4.3,5.4,56,9,Education,4,0.9,144,7.7,10
+338,Megan Burke,13,Male,Ryanview,8th,4,6.7,89,5,Gaming,5,1.6,26,6,9.2
+339,Robert Hays,14,Other,East Daniel,9th,9.2,8.3,96,10,Education,4,2,95,4.2,10
+340,Alexandra Brown,19,Male,Butlertown,12th,6.7,5.8,95,4,Education,8,0.9,53,2.6,10
+341,Chloe Moore,16,Other,New Ashley,7th,5.3,8.5,99,5,Browsing,5,0.7,85,2,9
+342,Christopher Hamilton,19,Female,North Cindyberg,10th,2.9,8.1,82,1,Browsing,10,1.4,129,7,6.8
+343,Robert Pham,19,Male,Port Lisaville,10th,5.1,9.9,84,4,Other,7,0.5,66,6.9,7.1
+344,William Watkins,15,Female,Williamsbury,10th,3.2,8.8,79,6,Other,9,1.3,75,5.7,6.5
+345,Vanessa Knapp,18,Male,Colemanville,11th,6.1,7.4,73,2,Social Media,10,1.5,59,5.3,9.2
+346,Edgar Smith,13,Other,Beverlyfort,11th,3.4,5.4,92,6,Social Media,7,0.7,25,7.4,7.5
+347,Christopher Blevins,13,Male,Port Amandastad,9th,5.7,5.8,95,1,Education,6,1.4,64,9.7,10
+348,Katherine Williams,15,Female,West Dakotaview,8th,3.1,9.2,75,2,Social Media,8,1.3,41,7.5,7.7
+349,Michelle Neal,17,Female,West Danielland,10th,2.6,6.9,86,4,Other,10,0.8,44,5.1,6.2
+350,Lisa Cardenas,13,Other,Jacksonmouth,10th,4.3,6.4,73,5,Gaming,4,0.7,73,3.3,6.4
+351,Tiffany Briggs,18,Other,North Jacob,11th,6.7,6.6,95,8,Browsing,2,0.7,93,4.1,10
+352,Christina Gallegos,17,Female,Port Dawn,12th,8.6,6,56,7,Education,10,1.3,114,5.4,10
+353,Lisa Adams,14,Female,North Danastad,11th,3.2,7.3,74,6,Social Media,9,1.4,106,5.3,6
+354,Aaron Anderson,19,Female,Troyburgh,8th,7.1,8.7,100,8,Education,7,1,82,5.8,10
+355,Martin Clark,14,Other,Howardbury,8th,6.8,7.5,84,7,Education,4,1.7,116,7.7,9.7
+356,Peter Nguyen,13,Other,North Michael,9th,8.8,6.8,83,2,Social Media,10,1.4,149,6.3,10
+357,Joshua Williams,16,Female,Omarborough,10th,5,6.6,50,9,Other,7,1.1,69,4.8,10
+358,Terri Walter,17,Male,Bowmanport,7th,5.5,6.8,51,10,Other,9,1.1,96,6.5,10
+359,Richard Wilson,18,Female,Markbury,7th,4.6,6.6,99,5,Browsing,10,0.9,43,2.5,6.9
+360,Amy Phillips,15,Male,North Harold,12th,4.8,7.5,68,4,Browsing,1,0.7,102,5.9,9.1
+361,Drew Mitchell,16,Female,Schneiderbury,9th,4.3,7.1,63,6,Other,7,0.9,65,2.4,6.7
+362,Shane Davis,15,Female,East Alicia,8th,6.4,6.3,89,5,Other,7,0.2,31,4.4,10
+363,Denise Lin MD,17,Male,South Juliaton,11th,2.2,4.9,62,3,Browsing,4,1.4,127,6.1,8.5
+364,Steven Andrade,14,Other,Robertburgh,9th,6.9,7.4,50,5,Social Media,3,0.7,58,6.9,10
+365,Angela Brown,19,Female,Barbarastad,7th,3.8,6.5,91,7,Gaming,8,1.9,134,7.5,10
+366,Daniel Sherman,18,Male,East Brian,12th,4.1,7.5,93,3,Browsing,6,0.4,25,4.5,7
+367,Makayla Smith,13,Other,Watkinsville,7th,5.1,7.9,51,1,Other,5,1.7,115,7.9,8.5
+368,Jeremy Carter,16,Female,Lake Marybury,10th,1.8,6.7,73,1,Social Media,9,0.7,143,1.7,9.3
+369,Jennifer Rangel,16,Male,Morrisonville,11th,6.1,7.2,56,4,Social Media,2,1.3,99,6,10
+370,Tina Thomas,16,Male,Thompsonport,10th,4.8,7.7,64,2,Other,3,1.7,23,4.8,6.6
+371,Mark Donovan,13,Female,South Keith,11th,8.4,6.6,92,7,Social Media,3,1.7,87,8.4,10
+372,Sarah Frye,13,Female,Port Jillianton,10th,6.5,5.6,58,5,Social Media,5,0.5,79,6.8,10
+373,Mr. Jaime Martinez,17,Other,Ryanhaven,9th,3.7,6.8,64,5,Browsing,8,1.9,123,8.5,10
+374,Kelly Briggs,18,Male,East Josephborough,10th,8.9,3.9,91,9,Gaming,3,0.9,33,5,10
+375,Mrs. Karen Allen,16,Male,Perezfurt,10th,4.1,6.8,52,9,Other,5,1.4,30,10.3,7.9
+376,Richard White,18,Other,Goodmanton,7th,4.1,4.4,71,1,Education,7,0.4,110,6.7,10
+377,Alex Schneider,19,Male,West Rachelshire,9th,4,7.2,69,5,Other,6,0.9,102,6.3,8.4
+378,Michael Bell,18,Other,Abigailberg,7th,6.8,8.8,56,9,Gaming,8,1.2,132,5.5,10
+379,Angela Allen,15,Other,Lambury,7th,3.1,7.3,77,4,Gaming,10,0.8,128,6.3,7.9
+380,Mrs. Kristina Watson,15,Female,North Janetview,11th,7.6,6.5,88,5,Education,4,1.3,134,12,10
+381,Virginia Brown,19,Male,Smithhaven,8th,5.5,5.2,78,1,Browsing,6,1.1,136,6.8,10
+382,Morgan Williams,16,Other,South William,7th,4.9,3.3,99,9,Other,8,1,60,10.6,7.4
+383,Robert Gomez,17,Male,Lisaburgh,8th,6.1,6.1,86,7,Social Media,4,0.1,93,5.9,10
+384,Anthony Padilla,15,Other,South Cassandra,12th,2.2,3,58,6,Education,4,2,44,4.1,7.2
+385,Dr. John Sullivan,16,Other,Loriview,12th,7.7,7.3,70,5,Other,4,1.5,79,6.4,10
+386,Holly Adams,14,Male,Samuelfort,11th,1.9,3.9,50,1,Social Media,6,1.9,41,5.5,7.2
+387,Matthew Lee,14,Male,Castillofurt,7th,5.6,4.1,80,9,Education,9,1.7,42,8.2,10
+388,Karen Smith MD,17,Other,South Johnview,12th,3,8.9,82,6,Social Media,6,1.5,141,6.5,6.3
+389,Madison Jackson,18,Male,East Carlmouth,8th,1.8,5.7,85,2,Gaming,7,1.5,120,7.7,10
+390,Benjamin Vance,13,Male,North Gary,8th,4.5,5.2,95,3,Gaming,3,1.4,146,2.5,10
+391,Geoffrey Green,18,Other,New April,8th,3.1,8.1,70,5,Education,5,0.4,55,5.7,8.1
+392,Alex Cook,16,Male,Martinezberg,7th,5.8,5.7,55,4,Browsing,6,1.3,143,8.5,10
+393,Edward Kemp,15,Female,Johnsshire,8th,7.6,6,63,9,Other,6,0.9,27,7.3,10
+394,Erika Brown,15,Female,Lake Alyssabury,9th,6.2,6.1,75,8,Social Media,6,1.2,76,6.5,9.4
+395,Katherine Kelley,13,Male,Diazmouth,10th,1.4,5.2,77,8,Gaming,8,0.4,86,4.9,7.5
+396,Mr. Mark Higgins,18,Other,Peterchester,11th,4.4,6.2,56,1,Social Media,6,0.7,57,1.9,9.9
+397,Charles Lewis,17,Female,Cooktown,11th,7.4,6.5,90,4,Other,5,0.6,103,3.3,9.5
+398,Matthew Watkins,18,Female,Bryanville,9th,6.5,3.4,84,7,Social Media,9,0.5,26,7.5,10
+399,Michael Walters,17,Other,Mitchellhaven,12th,3.9,4.4,65,3,Other,6,0.5,51,5.9,10
+400,Luis Nelson,18,Other,Ambermouth,10th,4,5.3,62,7,Social Media,4,0.7,119,4.9,10
+401,David Smith,14,Female,Hallfurt,9th,3.3,8.8,91,1,Gaming,1,1.7,114,8,6.1
+402,Ian Lawson,18,Female,North Charlesmouth,12th,6.5,6.9,53,3,Education,5,0.9,64,4.7,10
+403,Dr. Jason Yates,16,Male,Buchananfort,9th,5.4,3,91,6,Browsing,5,0.4,24,3.9,10
+404,Melanie Bowman,19,Other,New Timothy,10th,3.1,8,98,4,Education,9,1.1,45,4.5,6.5
+405,Steve Graves,13,Other,Port Nicholasborough,11th,4.4,7.3,77,10,Education,2,0.8,72,4.9,7.4
+406,Tracy Lynn,15,Other,Marquezview,12th,4.9,5.2,60,7,Education,4,0.1,125,7.6,10
+407,Ray Henderson,19,Male,Port Kimberly,11th,5.6,8,73,6,Gaming,1,0.6,75,6.8,8.1
+408,Kurt Gallagher,17,Male,Kathleenbury,11th,6.4,7.1,94,8,Other,3,0.9,113,3.8,10
+409,Ian Riley,13,Other,Port Stephen,8th,8.7,8.6,97,10,Social Media,2,0.5,59,9.7,10
+410,Steven Hendricks,18,Male,Rasmussenport,11th,6.7,3.9,90,10,Browsing,4,1.4,31,4.7,10
+411,Eric Cunningham,14,Other,West Amyfort,11th,8.7,6,87,1,Browsing,6,0,137,6,10
+412,Kevin Jensen,14,Male,East Melinda,7th,1.9,3.6,70,5,Browsing,4,0.8,53,1.7,8
+413,Jared Collier,19,Other,Lake Jamestown,7th,7.8,5.3,67,6,Education,8,0.9,122,7.3,10
+414,Michelle Hicks,16,Female,Stewartport,11th,3.7,5.9,83,3,Browsing,1,1.2,83,5.9,7
+415,Mr. Brian Garcia,15,Other,Cynthiaville,8th,8.4,5.2,95,9,Browsing,1,0.6,108,2.3,10
+416,Monica Hill,16,Male,North Stevenshire,12th,8.8,7.3,80,4,Other,3,1.1,58,4.7,10
+417,Peggy Butler,17,Male,New Natalieside,11th,6.2,6.2,64,10,Social Media,8,1.9,41,8.5,10
+418,Ralph Allen,15,Other,New Jessica,8th,3.8,3.9,73,5,Other,7,0,85,6.5,8.2
+419,Robert Foster,15,Other,Smithburgh,12th,6,7.4,57,9,Education,8,0.9,113,5,10
+420,Sabrina Hicks,15,Other,West Justin,12th,2.4,8.3,100,6,Social Media,7,0.6,93,3.3,7.2
+421,Tony Smith,14,Female,North Alexis,11th,5.7,5.5,77,10,Social Media,5,1,114,7.9,10
+422,David Hays,17,Other,South Susan,9th,6.3,6.5,94,7,Education,4,0.5,85,8.7,7.8
+423,Debbie Thompson,17,Other,Martinezborough,8th,6.3,5,74,8,Browsing,2,0.4,24,7.9,8.6
+424,Beverly Carter MD,16,Male,Susanton,11th,0,6.6,66,2,Browsing,4,0.9,136,2.6,5.3
+425,Jeremy Hayes,13,Other,South Lisaborough,9th,6.3,8.8,63,9,Social Media,3,2.1,32,8.4,10
+426,Curtis Jones,19,Other,Shaneburgh,7th,5.2,7.4,87,6,Browsing,9,1.5,57,6.9,8.1
+427,Jill Wilson,13,Male,Stacychester,9th,3.5,5,97,9,Browsing,8,1.6,34,6.9,5.4
+428,John Elliott,15,Male,Jamesberg,11th,4.5,8.2,57,8,Social Media,1,2,32,3.5,10
+429,Angela Davis,14,Female,West Traceymouth,10th,4.9,6.5,85,9,Gaming,2,0.9,110,5.4,10
+430,Kevin Davis,13,Other,Juarezmouth,12th,4,4.8,82,10,Other,7,0.7,23,6.4,9.1
+431,Rachel Lopez,18,Male,South Davidstad,9th,4.2,5.1,75,7,Gaming,10,0.7,128,8.1,10
+432,Tyler Silva,14,Male,Robinsonfurt,8th,6.2,6.7,57,5,Gaming,6,1.6,71,6.9,10
+433,Stacey Walker,16,Male,Smithton,11th,3.8,8.8,55,9,Social Media,5,0.5,83,7.5,9.3
+434,Leslie Price,16,Other,Lake Manuel,12th,4.1,3.6,77,9,Education,4,0.8,140,6.3,10
+435,Manuel Moody,19,Other,South Christopher,11th,4.3,6.4,75,6,Browsing,9,1.6,73,4.8,5.9
+436,Parker Lopez,17,Male,Laurentown,11th,4.7,8.3,97,3,Gaming,9,1.3,119,5.5,8.3
+437,Catherine Collins,19,Male,North Carlosstad,7th,4.5,5.3,82,3,Browsing,1,0.7,37,6.8,8.7
+438,Danielle Bush,13,Male,North Christopher,9th,3.5,5.5,58,5,Gaming,10,1.5,70,8.1,6.6
+439,Ryan Haney,18,Other,Matthewmouth,12th,4.1,5.7,79,5,Social Media,9,1,108,4.6,8.8
+440,Natalie Wood,13,Female,Lopezchester,9th,4.9,7.2,56,10,Social Media,1,1.1,42,6.7,9.4
+441,Louis Rodgers,18,Male,East Matthew,8th,7.3,5.4,87,7,Other,5,1.5,134,4.7,10
+442,Taylor Martin,18,Other,Elizabethport,7th,6.7,6.1,61,8,Browsing,1,0.6,137,6.1,10
+443,Douglas Fisher,19,Female,Bonnieland,7th,6.5,7.4,51,6,Other,6,1.3,108,2.9,9.8
+444,Donald Sutton,16,Male,Meghanmouth,12th,7.3,10,94,1,Browsing,2,1.7,122,7.1,10
+445,Laura Smith,14,Other,New Adamchester,8th,6.8,7.7,53,6,Other,8,1.7,55,7,10
+446,Erika Hill,14,Other,Joannmouth,11th,3.7,7.5,53,7,Other,2,0.2,115,4.5,10
+447,Diane Walters,19,Other,West Rodneyfurt,7th,5,6.9,50,9,Social Media,3,0.7,108,6.7,10
+448,Madison Thomas,19,Male,Williamschester,12th,6.8,9.4,67,8,Social Media,6,1.3,57,7.1,9.4
+449,Lindsey Sheppard,19,Male,Brownstad,9th,6.6,8.6,61,10,Other,7,1.3,133,7.8,9.7
+450,David Williams,13,Male,Lake Amanda,10th,3.8,5.2,75,1,Gaming,4,0,123,3.9,10
+451,Phillip Campbell,19,Male,Martinezberg,9th,3.9,8.4,61,5,Social Media,2,0.4,76,6.3,3.9
+452,Sarah Smith,15,Male,Anthonyland,10th,2.5,6.1,67,3,Education,8,0.6,43,7.9,8.1
+453,Becky Perkins,17,Female,Davidshire,11th,5.5,7.5,90,6,Other,9,0.7,55,4.4,7.8
+454,Brenda Taylor,17,Other,West Deniseport,9th,3.4,9,56,7,Other,5,1,74,5.7,5.7
+455,Henry Wilkerson,17,Female,Gilbertburgh,8th,5.9,7.7,81,1,Education,9,0.5,136,3.1,8.9
+456,Dr. Hannah Johnson,15,Male,Lake Anne,11th,6.7,5.1,75,6,Browsing,4,0.5,59,8.7,10
+457,Melanie Villa,13,Male,Anthonyview,9th,5.4,6.2,50,5,Other,8,0.8,79,5.1,9.3
+458,Justin Edwards,18,Other,Cooktown,10th,5.1,7.1,85,1,Browsing,5,0,39,2.2,7.4
+459,Lawrence Miles,16,Other,Taylorview,11th,4,7.1,96,7,Social Media,2,0.3,32,5.8,7.9
+460,William Anderson,16,Male,Lauriestad,8th,2.1,5.2,66,4,Social Media,2,0.7,97,10.6,10
+461,Julie Watson,17,Other,Nathanielbury,9th,8.6,6,53,2,Browsing,1,0.7,128,6.4,10
+462,John Potts,17,Male,West Maria,7th,6.2,6.5,58,5,Education,5,0.7,109,6.1,10
+463,Alexa Simmons,13,Male,Davishaven,10th,3.8,3.7,78,1,Education,6,0.3,64,9.6,7.4
+464,Jennifer Anderson,14,Male,Ambermouth,11th,7.4,4,96,1,Other,9,1.2,146,8.6,10
+465,Amber Rodriguez,13,Female,Stephaniestad,11th,5.4,4.3,93,8,Browsing,8,1,38,3.3,10
+466,David Harvey,19,Male,Port Carrietown,8th,5.2,8.6,76,10,Other,5,1.1,33,8.8,6.2
+467,Kathleen Hansen,16,Female,East Reneestad,9th,7.2,3.9,60,4,Education,1,1.7,26,4.8,10
+468,Andrea James,16,Female,Lake Kevin,12th,2.8,6.1,96,8,Education,7,1.7,33,8.1,6.7
+469,Emily Moore,15,Female,Sandrahaven,9th,7.8,7.9,79,2,Browsing,8,1.3,30,5.2,9.3
+470,Logan Ortega,16,Male,Robertsfort,8th,4.7,7.6,58,10,Education,1,0.2,98,9.6,10
+471,Brian Sanchez,19,Male,Courtneyland,9th,5.6,6.1,91,9,Other,7,0.2,111,2.9,10
+472,Rebecca Williams,13,Male,Port Shawnland,10th,3.8,7.1,99,3,Other,6,0.8,26,6.2,10
+473,Lisa Baker,18,Female,North Brookebury,11th,5,8.5,99,5,Education,1,0,134,6,10
+474,Jessica Stevens,19,Other,East Bailey,9th,5.2,8.7,51,3,Browsing,3,0.9,81,5.7,8.8
+475,Christopher Juarez,17,Male,Butlerhaven,7th,10.2,10,64,2,Social Media,10,0.2,73,5.3,10
+476,Kathryn Bowman,13,Female,Jamieview,12th,1.1,9,98,4,Education,6,1.6,132,5,7.3
+477,Angela Morales,14,Other,South Louis,8th,2.4,6,84,9,Gaming,8,0.3,65,4,8.3
+478,Allison Lyons,17,Male,Reginafurt,8th,5.5,7.4,93,9,Gaming,5,1.5,81,5.7,9.1
+479,Tracy Werner,16,Male,East Michaelmouth,11th,5,7.9,100,4,Social Media,4,0.9,26,8.4,6.2
+480,Erica Lowery,15,Other,South Sarahville,10th,2.2,7.2,79,8,Gaming,6,0.1,56,7,4.7
+481,Troy Flores,16,Male,Lake Erikabury,8th,5.2,7.6,76,9,Gaming,1,1.3,147,7.9,10
+482,Kara Simmons,19,Other,East Lindsey,8th,4.6,6.8,90,1,Other,4,0.5,131,3,9.5
+483,Kelly Collier,17,Male,South Rachelfurt,11th,7.6,6.6,76,7,Other,7,1.3,79,6.8,10
+484,David Gonzalez,16,Other,East Erik,11th,5,6.8,86,3,Browsing,5,0.7,76,8.2,6
+485,Ronald Mueller,15,Female,Beckfort,12th,4.9,4.7,66,7,Social Media,7,0.9,92,3.3,10
+486,Douglas Powers,14,Other,Douglasfurt,8th,7.1,7.9,84,5,Education,6,1.1,110,10.2,9.8
+487,Vincent Fischer,17,Female,Thomasport,9th,3.6,4.8,70,6,Other,8,1.1,145,5.3,8.3
+488,David Steele,14,Other,Bestshire,11th,6.4,6.4,77,2,Education,9,0.8,148,6.4,10
+489,Vanessa Farrell,19,Other,Lake Brenda,9th,4.4,8.7,88,10,Other,4,1.1,150,5.4,10
+490,Benjamin Young,19,Other,Carolineborough,12th,4.8,7.1,50,8,Education,2,1.4,108,6,9.5
+491,Micheal Barnes,15,Male,Turnerfurt,10th,10.2,4.7,83,2,Gaming,10,1.1,53,7.8,10
+492,Johnny Vargas,15,Female,North Marisaside,7th,5,7.7,70,3,Social Media,6,1,110,3.7,10
+493,Annette Rodriguez,14,Male,North Taylor,9th,6.8,6.2,87,1,Social Media,2,0.6,72,4.3,8.2
+494,Joshua Butler,13,Male,South Taylor,8th,4.1,5,58,10,Other,3,0.9,80,6.4,10
+495,Mr. Paul Chen,15,Male,West Davidfort,11th,7,4.3,53,9,Browsing,2,1.4,133,9.5,10
+496,Leslie Salazar,15,Female,Lake Mariafurt,7th,5.8,6.9,88,2,Other,7,0.6,122,6.6,10
+497,Jamie Brown,14,Female,North Chase,7th,4.2,3.6,60,5,Gaming,4,0.9,137,4.5,10
+498,Andrew Hammond,13,Female,South Timothymouth,10th,4,10,56,5,Other,5,0.2,83,5.5,4.9
+499,Timothy Barber,13,Female,Stewartburgh,9th,4.6,3.3,67,7,Browsing,5,1.1,71,5.9,10
+500,Randall Foley,18,Other,Lake Jacobport,10th,5.4,8.7,91,1,Education,10,1.2,58,5.7,6
+501,Robert Wilcox,15,Male,West April,12th,3.9,6.5,77,8,Gaming,9,0.9,20,6.6,7.8
+502,Troy Rodriguez,17,Other,East Christine,8th,4.3,3.8,50,8,Gaming,3,0.4,73,5.2,9.8
+503,David Johnson,19,Male,East Marktown,10th,3.6,7.2,92,1,Other,1,1.5,36,4.5,5.9
+504,Elizabeth King,15,Male,Carolynland,9th,2.8,8.9,91,3,Browsing,1,0.7,51,4,6.8
+505,Joe Riley,17,Female,Port Cynthialand,10th,4.3,7.4,91,2,Social Media,3,0.8,24,6.3,9.6
+506,Christopher Padilla,19,Male,Leeside,8th,8.6,6.6,78,2,Browsing,6,1.1,108,4.6,10
+507,Sarah Butler,18,Male,Lake Stacey,8th,6,4.4,77,7,Education,5,0.9,110,6.6,9.8
+508,Christopher Meyer,14,Male,Port Charles,11th,3,6.1,90,4,Browsing,5,0.3,129,7.5,9.5
+509,Amber Schneider,17,Other,New Mary,12th,2.7,6.6,82,1,Browsing,5,0.2,94,6.1,8.3
+510,Charles Jackson,13,Other,Christopherberg,8th,7.2,7.5,93,1,Education,5,0.4,55,1.2,10
+511,Brandon Washington,13,Other,East Raymondhaven,9th,3.3,5.2,96,7,Gaming,9,1.3,21,5.4,6.1
+512,Kristin Lambert,15,Female,New Gilbertburgh,11th,5.7,5.8,88,2,Gaming,10,1,81,8.6,10
+513,Lance Ortega,16,Female,Hurstville,9th,2.8,5.1,61,5,Social Media,6,1.3,39,4.6,4.6
+514,Jacob Beard,13,Other,Janicestad,10th,7.1,6.2,100,10,Social Media,7,0.6,119,6.5,10
+515,Joseph Carpenter,13,Other,New Sandra,7th,3.4,7.9,77,3,Education,6,1.4,83,2.8,9
+516,Devin Richardson,15,Other,South Kristi,12th,5.8,7.1,91,8,Education,5,0.8,76,4.8,10
+517,James Hopkins,19,Female,Lake Lisaview,11th,3.9,8.9,50,1,Social Media,1,1,50,6.9,6.2
+518,Whitney Reyes MD,14,Male,Payneport,8th,6.2,6.2,54,8,Other,7,1,109,6.3,10
+519,Rhonda Craig,13,Female,Rodriguezfurt,10th,0,6.7,66,2,Browsing,3,0.7,122,7.3,5.8
+520,Katie Rodriguez,19,Other,New Kristenland,12th,5.6,8.8,87,4,Gaming,6,1.1,44,8.3,10
+521,Michael Duke,19,Female,Gordonton,9th,2.5,6.6,53,4,Education,1,0.6,71,6.3,5.6
+522,Dennis Anderson,17,Male,Andrewview,10th,8.1,6.4,91,4,Other,2,1.2,128,5.2,10
+523,Megan Sullivan,18,Male,Lake Sandraborough,9th,3.8,7.2,88,3,Education,4,1.4,65,6.2,6.4
+524,Michael Alvarez,14,Other,East Michaelchester,10th,9.3,6.3,55,3,Social Media,8,1.3,27,6.6,10
+525,Carrie Maynard,16,Female,East David,10th,0.4,7.5,86,5,Social Media,10,1.8,59,9.3,4.8
+526,April Wilkerson,19,Male,Perkinsfurt,11th,3.6,8.3,61,4,Social Media,6,1.3,40,5.6,7.5
+527,Emily Cooper,16,Female,South Garyport,7th,4.1,6.4,76,2,Education,10,1.1,123,7.3,10
+528,Courtney Bennett,17,Female,South Sara,7th,2.3,7.2,71,8,Other,1,0.6,131,4.2,9.2
+529,Justin Weiss,19,Male,New Shannonmouth,12th,4.3,4.9,84,9,Education,9,1.4,67,7.1,8.1
+530,Diane Riley,16,Female,North Grace,12th,4.6,7.3,58,1,Social Media,7,0.7,143,8.6,10
+531,Eric Brown,18,Male,New Thomasville,11th,6.1,4.8,66,1,Gaming,2,1.3,24,8.1,10
+532,Robin Wilson,17,Female,North Kevin,8th,3.9,8,67,8,Gaming,6,0.4,133,5.8,9.9
+533,Brooke Horn,17,Other,North Joseph,9th,3.9,6.6,72,5,Other,9,1,78,6.1,6.4
+534,Morgan Johnson,16,Male,Anthonybury,7th,3.8,4.8,53,6,Browsing,5,0.8,29,4.7,6.7
+535,Melissa Gordon,15,Male,Julieshire,11th,2.2,5.1,65,5,Social Media,4,0.8,148,7.7,8.7
+536,Heather Gonzalez DDS,17,Female,East Samuelland,8th,3.2,3,76,10,Other,4,1.7,39,6.5,10
+537,Matthew Dillon,13,Male,Omarview,11th,6.1,8,50,7,Browsing,7,1.1,22,5.9,7.9
+538,Megan Morales,13,Male,Ashleystad,9th,7.6,7.2,86,10,Education,5,1.4,117,7.5,10
+539,Lisa Gibson,17,Male,Lake Georgeton,10th,4.5,7.3,91,8,Other,4,1.3,135,6.7,10
+540,Melanie Hughes,18,Other,South Jillmouth,8th,5.9,4.9,57,6,Gaming,9,1.3,21,7.9,10
+541,Seth Martinez,15,Other,Drakeland,12th,2.2,10,62,1,Education,5,1.6,46,5.2,8.6
+542,Anne Chavez,15,Male,North Jeffreyhaven,12th,5.3,5.7,56,7,Gaming,10,0.6,104,6.9,9.6
+543,Patrick Jenkins,18,Other,Lake Rachael,9th,3.4,5.6,93,9,Browsing,1,1,56,4.8,9.8
+544,Michael Davis,14,Female,East Ronald,8th,6.6,5.1,93,2,Social Media,10,0.4,117,6.5,10
+545,Sharon Kelly,15,Other,North Michael,7th,6,3,88,9,Browsing,8,0.7,27,4.7,10
+546,Mr. Brian Huber,18,Male,New Robert,10th,4.7,4.6,73,9,Social Media,4,0.8,65,7,10
+547,Rachel Diaz,15,Male,Stephenview,12th,5.7,5.4,93,9,Other,4,0.9,71,4.2,9.7
+548,Willie Silva,19,Other,East Stephaniehaven,7th,3.2,3.6,72,4,Gaming,1,1.5,57,6.2,10
+549,Melissa Anderson,19,Other,Pierceburgh,7th,2.4,5.6,80,8,Other,5,1.9,102,5.7,8.6
+550,Jennifer Cantrell,13,Female,Wallaceville,10th,4.2,6,87,5,Other,7,0,22,10.6,6.9
+551,Daniel Stephenson,15,Other,Nicolefort,8th,7.2,8.4,56,1,Other,8,1.5,72,6,10
+552,Joyce Johnson,15,Male,East Earl,12th,4.6,6.7,73,1,Browsing,4,1.7,51,11.8,6.3
+553,Patrick Robinson,17,Male,Washingtonchester,12th,1.1,7,58,4,Gaming,6,0.8,135,6.6,8
+554,Debbie Alexander,17,Male,New Josephhaven,7th,4.5,4.4,86,9,Other,1,1.8,46,7.7,10
+555,Nathaniel Fleming,16,Other,Port Julieburgh,12th,1.9,6.2,58,2,Education,7,1.6,32,3.6,8.5
+556,Eddie Maynard,15,Male,West Tylerside,10th,4.1,8.5,91,6,Social Media,9,0,49,4.7,7.3
+557,Ashley Cowan,16,Other,New Barbara,12th,7.3,8.1,58,9,Education,1,0.9,39,6.3,10
+558,Marcus Meyer,17,Other,North Laura,10th,9.1,4.7,59,1,Education,2,0.9,135,6.7,10
+559,Kathryn Miller,15,Female,Danielville,12th,4.8,7.8,62,7,Other,4,0.6,52,4.1,8.6
+560,Rachel Mills,13,Other,Melissaside,8th,5.9,7.5,98,1,Gaming,3,1.8,108,5.6,9.3
+561,Maurice Jones,19,Female,Jeffreyburgh,9th,4.1,4.2,83,9,Social Media,8,0.7,101,8.5,8.1
+562,Jennifer Watson,18,Other,North Christie,9th,1.5,8.6,60,3,Browsing,8,1.8,119,3.2,10
+563,Barbara Joseph,19,Male,West Martin,8th,5.4,4.7,91,4,Social Media,3,1.1,126,3.8,10
+564,Derek Boyd,17,Male,East Valerieberg,12th,2.3,7.1,64,4,Other,1,1.5,140,4.5,8.2
+565,Terri Ruiz,19,Female,Bonillaborough,7th,5,6.5,55,8,Gaming,3,1.1,32,6.4,9.3
+566,Mr. Zachary Randall,17,Male,East Colleenburgh,10th,4.2,7.9,67,9,Social Media,10,0.8,56,7.4,8.6
+567,Mrs. Sarah Adams,15,Female,Donaldtown,12th,0.2,5.4,78,9,Social Media,2,1.5,102,7.7,4.2
+568,Olivia Walker,15,Male,Christinestad,9th,8.6,7.4,68,5,Browsing,7,0.5,31,4.4,10
+569,Maurice Burns,18,Female,East Elizabethtown,10th,4.2,7,96,5,Social Media,9,0.4,128,8.1,7.3
+570,Danny Griffin,19,Other,Jeffreytown,10th,4.3,6,59,10,Gaming,3,0.6,20,6.5,10
+571,Ivan Dillon,17,Female,Danieltown,7th,5.4,5.1,75,2,Social Media,3,1,66,2.8,10
+572,Charles Hendricks,13,Male,Danielfort,9th,6.3,5.3,82,3,Browsing,1,0.4,45,3.7,10
+573,Robert Bond,17,Male,Harttown,9th,7.2,8.4,97,9,Other,5,1.2,33,4.8,10
+574,Michelle Sweeney,13,Female,West Caitlynview,7th,6.7,6.6,68,3,Other,8,1.4,134,4.8,10
+575,Timothy Williams,16,Female,West Christina,9th,7.3,7.1,84,4,Other,10,1.5,92,6,10
+576,Karen Bailey,14,Female,West Karinafurt,7th,5.2,5.3,80,10,Gaming,8,1.1,80,8.8,10
+577,Maxwell Garza,18,Female,Port Jennifer,8th,5.7,9.9,91,5,Education,3,0.9,29,9.2,8.3
+578,Kenneth Gray,16,Other,North Johnny,12th,4.6,8.8,96,3,Social Media,2,1,25,5,7.1
+579,Grace Zimmerman,16,Male,East Larrychester,9th,3,7.8,62,2,Browsing,8,0.6,36,10.6,6.3
+580,Tara Berry,13,Female,New Ian,7th,3.1,6.8,53,2,Other,9,0.4,33,6.8,7.4
+581,Steven Gardner,13,Female,Port Kimberly,10th,4.3,6.5,88,1,Other,7,1.7,82,2.8,10
+582,Courtney Adams,18,Male,Manuelhaven,10th,4.4,7,76,2,Other,8,1.4,111,5.7,10
+583,Julia Rogers,16,Female,Desireeland,8th,10.5,8,97,7,Social Media,10,1,128,3.7,10
+584,Margaret Williams,16,Male,Michelleton,9th,2.1,7.6,95,9,Education,4,1.1,145,0.9,5.9
+585,Mariah Walsh,18,Other,East Matthew,10th,5.4,4.2,80,10,Education,3,1,129,5.3,10
+586,Eric Williams,13,Other,East Elizabeth,7th,4.4,5.2,72,1,Other,2,0,145,3.3,10
+587,Lauren Martinez,14,Male,Smithport,10th,1.9,4.6,56,6,Browsing,6,1,101,7,9.1
+588,Deborah Goodman,15,Other,Eatonton,7th,6.4,5.8,86,5,Browsing,1,0.7,101,5.1,10
+589,Joseph Arnold,16,Other,Ernestburgh,8th,4.9,7.1,66,10,Browsing,4,0.6,40,5.2,10
+590,Kristina Morgan,16,Female,Annstad,12th,4.3,7.3,95,4,Browsing,7,0.7,130,6.2,10
+591,Mckenzie Ball,17,Female,North Billyhaven,9th,6.1,6.6,52,7,Education,2,0.9,39,4.1,10
+592,Joseph Rodgers,19,Male,Lake Rachelville,7th,3.9,7.7,58,4,Education,9,0.9,51,3.4,8.4
+593,Dustin Wood,17,Male,Andrewside,12th,6.2,8.3,59,3,Gaming,9,0.8,123,7.5,10
+594,Katherine Estrada,19,Other,Mooreburgh,7th,3.2,4.2,67,7,Other,9,1.5,89,0.7,8.9
+595,Rachael Brown,16,Female,Port Tommyview,12th,3.9,6.3,59,5,Education,10,1.2,120,4.3,10
+596,Brian Alvarez,16,Female,Hartland,11th,9.1,5.8,99,4,Social Media,9,1.7,36,7.6,10
+597,Brittney Myers,17,Male,Nicolechester,10th,2.8,6.4,68,1,Social Media,1,1.3,108,4.4,8
+598,Kenneth Rios,18,Male,Sierraville,12th,8,7.5,76,2,Social Media,8,0.6,83,5.9,10
+599,Steven Hill,19,Other,Patrickberg,8th,6.7,5.9,72,1,Education,5,1.6,75,9.3,10
+600,Mitchell Kline,15,Other,Nicolehaven,10th,5.7,6.7,74,1,Gaming,8,1.7,54,4.9,10
+601,Shannon Ford,17,Male,Gonzalezport,11th,7,7,98,5,Social Media,5,0.4,119,5.6,10
+602,Charlotte Hudson,16,Other,Jamestown,9th,7.4,5.4,80,3,Other,6,0.8,148,6.2,10
+603,Teresa Thompson,16,Male,Robertville,10th,6.8,4.6,87,2,Gaming,9,1.1,55,5.6,10
+604,Linda Matthews,19,Female,Millerport,7th,8.1,6.9,78,4,Other,2,0.2,103,6.8,10
+605,Gregory Washington,15,Other,Hollymouth,10th,4.7,6.8,86,4,Browsing,7,0.4,105,4.6,7.1
+606,Matthew Miles,14,Male,West Andrewchester,8th,7.5,7.8,71,9,Browsing,8,1.3,22,9,6.7
+607,Judith Snyder,13,Male,Kimberlyfurt,10th,3.7,5.8,67,8,Social Media,10,1,60,8.6,9.7
+608,Scott Ramirez,14,Female,Williamsbury,7th,5.3,3.4,83,3,Browsing,7,1.9,144,4.9,10
+609,Alfred Crawford,17,Other,West Eric,11th,5.2,7.8,75,5,Other,6,1.4,134,5.7,10
+610,Jose Williams,16,Female,North David,8th,2.4,4.2,53,4,Browsing,8,0.8,108,3.9,8
+611,Jerry Acosta,18,Other,Allenborough,11th,0.5,5.3,89,10,Social Media,1,0.4,43,5.3,2.4
+612,Lori Henry,16,Male,East Janettown,8th,7.6,7.9,87,9,Education,2,0.6,146,6.4,10
+613,Darin Macias,14,Female,Swansonbury,9th,7,7.1,52,9,Browsing,10,1.3,148,5.7,10
+614,Dennis Mcneil,19,Female,Harrisport,8th,3.6,7.8,59,1,Other,5,1.7,85,8.1,9.8
+615,Susan Martinez,17,Other,Ronaldbury,10th,6.2,6.3,67,9,Education,6,1.6,47,6.2,9.1
+616,Christopher Jackson,16,Male,South Nicoleside,11th,8.3,6.9,97,7,Gaming,4,1.3,70,3.7,10
+617,Grant Salinas,15,Female,East Jonathon,11th,6.6,5.9,65,2,Other,3,0.9,113,7,10
+618,Megan Williams,13,Female,Lake Johnfort,7th,6.7,5.2,75,8,Other,4,0.1,122,4.2,10
+619,Margaret Martinez,14,Male,East Lisabury,7th,4.7,7.9,82,4,Education,5,1,39,5.5,9.7
+620,Monica Lara,16,Female,Jennybury,8th,5.5,5.3,93,5,Browsing,10,0.6,44,5.9,9.9
+621,Andrea Davis,19,Female,Port Eric,10th,4.9,5.9,88,4,Education,9,1.3,21,4.6,10
+622,Brian Garcia,15,Female,Port Jenna,7th,6.7,6.5,56,3,Social Media,3,1.1,72,5.1,9.9
+623,Mitchell York,18,Female,Audreyburgh,7th,7.3,6.6,50,9,Education,4,1,35,4.5,10
+624,Brandon Chandler,17,Other,New Michelleport,10th,4.7,5,89,9,Browsing,2,0.9,39,5.7,8.7
+625,Tyrone Perkins,14,Male,Bettyburgh,11th,5.3,6.8,84,6,Social Media,5,1.5,106,6.2,9.8
+626,David Frost,13,Other,West Josephborough,10th,7.3,8.1,76,1,Social Media,2,1.5,51,4.9,9.3
+627,Jessica Jones,15,Other,Smithberg,7th,5.5,5.3,69,1,Social Media,9,0,45,6.6,9.4
+628,John Garcia,14,Male,North Thomasview,8th,2.6,7.2,73,8,Education,8,0,107,5.9,9
+629,Louis Robinson,13,Male,North Jerry,7th,2.4,7.1,52,5,Browsing,1,0.5,81,3.5,7.2
+630,Makayla Parker,13,Male,North Christopher,12th,4.3,5.8,100,2,Other,8,0.9,126,5,10
+631,Brooke Gay,13,Female,South Richard,12th,1.1,6.8,77,3,Education,2,1.6,38,3.7,10
+632,Jason Whitaker,16,Female,Shawntown,9th,5.7,8.6,55,5,Other,4,1.3,121,4.4,9.1
+633,Mary Warner,14,Other,Huntland,12th,6.9,7.9,52,10,Social Media,4,0.9,92,7.9,10
+634,James Garcia,15,Other,North Sydney,9th,2.9,5.9,92,5,Browsing,4,0.8,45,4.3,4.2
+635,Patrick Flowers,15,Female,New Michael,12th,4.6,7.4,60,3,Social Media,4,0.3,150,3.7,10
+636,Stephanie Diaz,15,Other,Mariahport,11th,5.3,5.9,96,8,Gaming,5,0.9,51,10.2,10
+637,Megan Hill,14,Male,West Maryland,9th,3.9,3.7,85,8,Browsing,2,1.1,39,6.2,10
+638,James Sullivan,13,Male,West Austinchester,7th,5.1,5.5,80,6,Browsing,2,0.9,77,4.8,10
+639,Robert Estes,16,Female,Hahnborough,7th,4,5.1,79,8,Gaming,2,2,81,6,10
+640,Debbie Small,13,Female,East Brian,11th,8.8,7.7,62,8,Gaming,6,0.6,34,5.6,10
+641,Angela Chandler,14,Other,Port Emilyside,10th,1,5.9,74,10,Social Media,2,1.1,92,5,8.6
+642,Russell Booker,18,Female,West Jenniferchester,8th,5.7,6.2,52,2,Gaming,9,1.9,82,4.1,9.3
+643,Jeffery Thomas,18,Female,East Melissafurt,7th,5.4,7,90,10,Gaming,6,1.3,47,9.5,10
+644,Christopher Miller,13,Female,North Ruben,10th,4.4,7.6,69,2,Browsing,2,2.4,73,3.3,9.9
+645,Terry Walker,14,Male,New Michael,10th,6.3,4.4,52,2,Browsing,2,0.7,74,6.9,10
+646,Alex Martin,17,Female,Christopherton,12th,7.8,4.6,56,6,Other,4,0.6,126,8.2,10
+647,Caleb Garrett,18,Female,West Morgan,8th,2.9,4.9,84,5,Other,3,1.6,74,8.8,7
+648,Donald Horne,16,Female,Lake Jonathan,11th,4.1,6.7,82,8,Social Media,6,1.3,150,3.4,7
+649,Sandra Barton,17,Female,Port Lisamouth,12th,5.5,5.5,62,9,Social Media,7,0.7,67,6.7,10
+650,Daniel Jones,19,Male,Bateschester,12th,8.5,6.7,69,5,Education,7,1,47,10.4,10
+651,Margaret Garcia,17,Other,Edwardborough,10th,3.3,8,69,9,Other,8,0.6,112,4.2,5.6
+652,William Vaughn,14,Other,East Kevinland,7th,3.9,5.8,95,1,Browsing,1,0.4,83,4.6,9.7
+653,Maria Jackson,19,Other,South Jay,12th,5.6,5.2,73,2,Other,1,0.5,98,7.8,10
+654,Samuel Williams,14,Male,New Michaelhaven,12th,0,7,89,1,Education,8,1.5,60,4.4,2.1
+655,Laura Clements,13,Other,Port Andrew,12th,4.4,5.4,69,2,Browsing,9,1.2,142,6.6,10
+656,Daniel Schmitt,16,Male,Port Craigview,10th,5.9,5,54,7,Education,9,1,53,6.1,10
+657,Sandra Edwards,14,Female,South Daniel,10th,3.5,8,63,6,Browsing,3,0.7,35,4.7,5.2
+658,Shawn Underwood,13,Female,Lake Virginia,11th,4.8,9.5,64,3,Education,5,0.7,40,6.6,10
+659,Meredith Norris,14,Male,North Margaret,11th,3.1,5.6,52,10,Education,9,1.2,31,4.2,9.3
+660,Julia Harris,19,Other,North Anthony,10th,3,6.1,77,9,Gaming,10,0.6,141,3.1,9.9
+661,Samantha Russell,16,Other,New Tarashire,8th,3.8,5.2,87,2,Education,6,0.7,60,8.7,7.1
+662,Katherine Montgomery,17,Male,Masonburgh,8th,4.9,7.7,87,5,Browsing,7,1.4,86,7.4,9.1
+663,Edward Gilbert,17,Male,Diazberg,10th,8.4,9.3,84,8,Social Media,8,1.6,28,5,8.9
+664,Francisco Sanchez,14,Other,South Jenna,10th,2.4,3.4,53,2,Browsing,1,1.4,126,6,8.7
+665,Kelly Stanley,13,Female,Lake Joseph,7th,4.6,8.7,98,4,Browsing,5,1.4,122,9.5,10
+666,Lawrence Fuller,17,Male,East Willie,7th,5.3,8.4,67,9,Education,10,0.5,70,4.9,10
+667,Veronica Evans,15,Male,East Amberberg,9th,5.6,5.3,73,5,Social Media,1,2,100,7.8,9.5
+668,Joshua Young,13,Male,Bettyberg,8th,5.7,5.6,67,10,Education,1,0.8,126,8.5,10
+669,Christopher Garcia,16,Male,South Peter,10th,2.5,10,60,7,Gaming,6,0.6,133,6.1,8
+670,Charles Wolfe,19,Other,Malonetown,12th,3.2,8.5,58,1,Browsing,6,0.7,71,5.3,5.1
+671,Daniel Hines,17,Female,North James,12th,6.6,5.5,68,4,Browsing,3,1.4,138,6.7,10
+672,Joshua Howard,13,Other,Stephaniehaven,12th,2.8,6,79,1,Gaming,4,0.6,78,6.7,5.9
+673,Hector Mendez,15,Other,Camachoberg,7th,4.6,5.1,51,8,Gaming,7,1.3,89,6.8,10
+674,Zachary Perkins,18,Male,Marqueztown,9th,6.4,7.3,84,10,Gaming,6,0,52,9.2,9.6
+675,John Weber,13,Female,West Cliffordside,10th,3.7,5.7,90,3,Other,10,0.6,117,5.5,10
+676,Jacqueline Fisher,14,Other,Lake James,11th,6,7.5,63,8,Other,5,0.7,66,3.8,10
+677,Kristin Palmer,19,Male,Perrymouth,8th,6.5,6.9,88,7,Gaming,3,1.2,93,6.1,10
+678,Joel Roy,17,Male,Dawsonville,12th,4.7,5.5,68,8,Social Media,1,1.5,77,5.5,8.3
+679,Nathan Davis,17,Other,Georgemouth,8th,4.4,7.8,55,5,Social Media,5,1.1,131,7.5,7.9
+680,Marc Young,15,Male,Port Brandy,12th,3.8,4.3,89,5,Other,1,0.9,56,5,10
+681,Daniel Reyes,17,Other,North Kelly,12th,9.3,6.9,88,6,Gaming,8,1.2,106,8.6,10
+682,Ryan Gonzalez,14,Female,North Johnmouth,8th,3.8,6.2,95,7,Gaming,5,1.5,32,2.1,7.8
+683,Caroline Bowers,14,Male,South Kayla,11th,4.8,6.4,77,7,Education,9,1,62,6.1,10
+684,Shane Walker,18,Male,Cooperland,10th,4.9,7,94,6,Gaming,6,0.6,109,5.4,8.5
+685,Emily Montgomery,13,Other,Virginiaside,11th,5.7,6,74,8,Browsing,8,1,63,3.3,10
+686,Jody Quinn,16,Female,Jacobhaven,12th,5.4,4.9,88,1,Gaming,2,1.7,131,5.4,10
+687,William Johnson,14,Male,Ashleychester,11th,6.6,8,81,6,Browsing,4,0.7,87,7.1,10
+688,Samuel Fischer,17,Other,East Megan,11th,6.5,6,64,4,Education,2,1.1,50,6.2,10
+689,Dana Rodriguez,19,Female,North James,8th,7,5.3,59,10,Other,10,0.8,134,3.5,10
+690,Caitlyn Baker,17,Female,Lake Melissatown,9th,4.1,6.8,62,3,Education,10,1,127,5.3,10
+691,Krystal Gomez,19,Female,West Matthew,9th,3.2,4.3,82,10,Education,9,1,23,6.9,8.8
+692,Jennifer White,17,Other,West Davidchester,10th,5,7.2,80,4,Social Media,7,1.7,122,7.4,10
+693,Jessica Harris,18,Other,Lake Michaelport,9th,4.3,4,95,8,Gaming,8,0.5,24,6.9,10
+694,Nicholas Villa,17,Other,Haleyhaven,10th,5.4,7.8,77,5,Gaming,10,1.4,120,3.1,10
+695,Kurt Brown,13,Male,Russellton,9th,3.7,4.2,85,7,Browsing,9,2,132,2,7.9
+696,Steven Peterson,16,Other,Lake Amandahaven,9th,5.2,6.1,93,8,Social Media,4,0.9,93,9.3,10
+697,Erika Jones,13,Male,New Jessemouth,8th,2.5,7.6,90,5,Browsing,3,1,61,2.1,5.8
+698,Anthony Allen,18,Female,South Stephanieton,12th,4,5.7,55,4,Other,8,1.3,48,8.3,10
+699,Brittany Klein,18,Male,Lake Julianborough,8th,7.6,7,61,10,Social Media,10,1.6,121,11.6,10
+700,Daniel Burgess,17,Female,Port Brittanyville,12th,4.9,4.7,79,3,Gaming,10,1.3,122,5,10
+701,Paul Rodriguez,14,Male,Lake Holly,11th,2.8,4.4,60,2,Gaming,10,1.2,95,8.1,7.5
+702,Philip Patel,13,Female,North Christopher,11th,0,4.5,63,5,Social Media,1,0.8,141,6.1,7.5
+703,Ronald Simmons,16,Female,Port Theodore,9th,2.9,6.7,64,5,Other,3,1.5,115,5.1,9.2
+704,Gabriella Winters DDS,17,Other,West Phillipfort,11th,4.1,7.1,80,10,Browsing,6,0.7,121,6.2,7.8
+705,Dawn Solis,16,Male,West Beverlyton,10th,8.3,5.7,98,3,Other,3,1.4,83,6.1,10
+706,Theresa Russell,16,Female,East Tylermouth,9th,0.6,5.7,72,7,Social Media,5,1.8,26,4.5,6.1
+707,Steven Morgan,19,Female,Wellsland,7th,5.6,4.7,98,5,Other,2,0.8,108,9.1,10
+708,Joseph Reynolds,14,Other,South Carrie,12th,6.5,5.6,83,10,Social Media,2,1.5,64,7.3,10
+709,Jacqueline Holland,17,Male,South Michael,10th,5.3,6.1,54,3,Browsing,9,0.7,146,8,10
+710,Robert Lee,17,Male,Port Anthony,9th,4,7.5,52,7,Education,8,0.7,67,6.9,8.6
+711,Pamela Johnson,15,Male,Derrickville,8th,11,7.7,59,7,Browsing,8,2.1,81,6.2,10
+712,Lori Johnson,15,Other,Floresmouth,7th,6.3,7.5,83,8,Education,2,1.6,40,5.7,10
+713,Annette Thomas,14,Female,New Willie,8th,0.3,5.8,64,4,Social Media,6,0,43,2.7,5
+714,Steven Sanchez,16,Male,Marissaberg,12th,4.8,4.7,61,10,Education,10,1.7,26,2.9,9.3
+715,Nicole Martinez,19,Other,North Tony,8th,4.4,9.1,100,6,Education,5,1.4,109,7.2,9
+716,Lisa Patel,19,Male,Lake Crystal,7th,6.3,4.3,57,8,Education,7,0.5,53,7.8,10
+717,Bobby Mccarty,17,Male,Andreaville,7th,6.4,7.3,66,8,Browsing,4,0.5,144,3.9,10
+718,Cassandra Ortiz,18,Male,East Michael,10th,4.7,6.4,88,6,Other,7,1.3,99,3.6,10
+719,William Rich,17,Female,New Clinton,12th,4.2,4.1,74,10,Browsing,6,0.6,131,12.4,10
+720,Lisa Sweeney,14,Male,Staceyfort,9th,5.9,6.3,89,3,Browsing,8,1.3,54,7.5,10
+721,Scott Harris,19,Other,Jessicabury,7th,8.1,8.2,86,3,Education,6,1.1,73,5.9,10
+722,Heather Cunningham,19,Female,Priceville,11th,6.4,5.2,97,5,Browsing,5,1.2,55,6.7,9.9
+723,Kristen Sosa,18,Female,Port Marcus,8th,5.1,4.2,82,1,Other,9,1.3,127,3.2,10
+724,Matthew Livingston III,19,Other,Stephentown,7th,5.3,10,60,6,Other,3,1.4,93,6.3,8.3
+725,Mary Ruiz,15,Male,North Dwaynemouth,11th,5.6,7.7,75,3,Browsing,3,0.2,72,3.1,9.9
+726,Andrea Young,14,Male,Jamesstad,10th,6.7,5.2,84,2,Browsing,1,1.9,60,3.6,10
+727,Cindy Adams,17,Female,Shelleychester,10th,3.8,7,96,4,Browsing,1,1.6,122,9.6,6.4
+728,Mr. Angel Hansen,13,Other,Port Patriciahaven,12th,3.5,6.6,88,8,Social Media,10,0.5,130,5.5,10
+729,Michelle Jackson,18,Female,Adamsside,12th,4.5,7.6,93,3,Social Media,4,1.3,70,5.4,7.6
+730,Brandon Vargas,18,Female,New Jessica,8th,7.8,7.8,69,4,Browsing,2,1.5,68,5.8,10
+731,Elizabeth Torres,16,Male,Port Catherinetown,8th,4.1,6.6,80,8,Education,9,0.2,73,4.9,10
+732,Maria Ellis,16,Other,West Thomasberg,11th,6.3,4.4,74,8,Browsing,10,0.7,129,6.7,10
+733,Brett Bowman,17,Female,Alyssaton,10th,5.4,6.1,69,4,Browsing,7,0.9,132,6.5,10
+734,Jessica Soto,13,Other,Bowenmouth,11th,2.4,5.6,79,5,Gaming,5,0.4,34,5.9,7.9
+735,Kimberly Clements,16,Other,Howeside,7th,0,7.6,71,6,Social Media,3,1.7,98,11.1,1.4
+736,Matthew Smith,15,Male,Smithberg,9th,0.3,6.5,56,1,Browsing,2,1.3,135,5,4.1
+737,Jerry Taylor,15,Male,North Ericland,12th,5.2,8.2,91,6,Other,6,1,91,6.1,6.3
+738,Shelley Olson,16,Female,Port Steven,10th,4.4,9.5,84,1,Education,4,0.9,71,7.9,8.8
+739,Dennis Swanson,17,Other,South David,11th,4.5,9.1,78,4,Browsing,9,1.7,133,4.3,10
+740,Megan Dominguez,15,Other,South Jonathan,8th,4.6,7.1,82,6,Other,6,0.9,79,8.3,10
+741,Stephanie Diaz,17,Other,Millerhaven,12th,6,6.1,71,9,Education,9,0.6,99,3.5,10
+742,Anthony Wilson,15,Female,Torresport,9th,5.8,9.9,50,5,Social Media,6,1.2,137,4.1,10
+743,Michael Wheeler,13,Other,North Tara,8th,5.3,8.7,85,5,Gaming,2,1.2,58,6.8,5.3
+744,Mr. Jorge Patton,17,Other,Lake David,8th,5.5,7.3,66,1,Education,10,0.5,89,7.7,10
+745,Jennifer Wilson,14,Other,Hobbsland,9th,4.9,5.7,95,8,Social Media,8,0.8,88,5.4,10
+746,Robert Powell,13,Female,North Shawnberg,8th,5.6,8.3,94,4,Social Media,9,1,144,5.7,8
+747,Erica Allen,15,Female,Desireeville,12th,4.7,5.2,58,2,Social Media,8,0.6,65,6.1,9.7
+748,Melissa Horn,17,Female,Brendaport,7th,3.4,6.8,87,9,Social Media,6,0.5,80,6.3,7.2
+749,Shannon Evans,18,Female,Spencerland,10th,3.9,5.8,73,3,Browsing,5,1.5,103,5,7.6
+750,Lauren Rivera,13,Male,Kellyton,10th,3.4,6,85,1,Education,6,1,97,5.2,8.1
+751,Michelle Morgan,14,Other,Ronaldfurt,9th,4.5,5.7,92,3,Education,2,1.1,144,7.2,10
+752,Jason Brown,14,Female,Kennethfurt,10th,7.3,7,87,2,Browsing,6,0.5,35,6.5,10
+753,James Frazier,13,Male,Jenniferbury,7th,7.5,5.2,68,7,Browsing,3,0,84,6.8,10
+754,Matthew Gardner,19,Female,Clarkton,8th,8.5,7.5,98,8,Other,4,1.5,73,5.5,10
+755,Robert Ruiz,19,Female,Claireville,8th,1.4,8.4,63,3,Browsing,4,0.9,130,5.5,8.1
+756,Brandon Peters,17,Other,Lake Anthonyland,7th,3,5.7,66,2,Education,2,1.4,39,6.5,8.3
+757,Alyssa Davidson,14,Other,Bryanhaven,8th,3.9,6.8,50,2,Education,10,0.8,115,3.5,10
+758,Andrea Booth,15,Other,East Jamesbury,7th,5.7,7.7,51,4,Social Media,6,1.2,121,2,8.5
+759,Erika Miller PhD,17,Female,Lake Samantha,10th,0.8,5.7,65,5,Gaming,3,1.2,128,7.2,8.2
+760,Heather Castro,16,Male,Stewartchester,7th,8.1,9.5,65,6,Browsing,5,0.6,38,2.8,9.4
+761,Kirk Hart,18,Male,Ashleemouth,11th,6.8,8.4,95,1,Gaming,2,1,103,12.6,8.6
+762,David Fitzgerald,13,Female,West Jessica,9th,4.6,6.8,93,9,Education,4,1,150,3.4,10
+763,Abigail Arias,16,Other,Lake Lawrence,11th,4.1,6.1,69,9,Social Media,5,1.1,119,6.3,10
+764,Brandy Williams,13,Male,Stephanieburgh,7th,7.7,7.5,58,9,Browsing,10,1.2,41,4.7,10
+765,Laura Griffin,13,Female,Lake Stephanieport,11th,3.9,6.3,98,8,Gaming,8,1,84,3.7,6.5
+766,Marcus Bullock,13,Female,Port Allisonfort,7th,3,4.2,67,7,Gaming,6,0.2,42,6.8,9.2
+767,Laura Rice,18,Male,Woodshire,11th,7.8,8.5,71,6,Education,2,0.7,41,7.4,10
+768,Casey West,16,Male,Pageville,8th,6.5,8,85,2,Browsing,2,1,135,7.5,10
+769,Debbie Schmidt,17,Other,North Kevinshire,9th,1.9,6.8,99,1,Browsing,4,1.7,80,6,6.8
+770,Timothy Davis,14,Female,South Tracystad,7th,4.6,5.2,88,8,Other,9,0.7,129,8.1,10
+771,Christian Jimenez,13,Female,North Lisaton,11th,7.5,5.7,70,4,Browsing,8,1.4,52,3.5,10
+772,Amanda Baker,13,Male,Alvarezview,11th,2.4,6.2,63,7,Social Media,1,0.9,88,4.5,5
+773,Sue Harris,18,Female,Timothybury,7th,7.2,9.7,74,4,Gaming,8,1.3,140,10.7,10
+774,Mrs. Brittney Greene,16,Other,Ianborough,11th,0,5.7,94,5,Education,6,1.4,122,5.7,7.3
+775,Thomas Gaines,18,Other,Graceshire,9th,1.8,6.6,75,2,Education,6,0.9,67,3.1,5.8
+776,Jessica Kane,13,Female,New Stephanie,10th,6.2,6.2,73,7,Browsing,5,1.1,24,9,10
+777,Nathaniel Brown,14,Other,West Willie,10th,2,7.3,58,3,Gaming,10,2,92,6.9,3.8
+778,Jacob Mccullough,19,Other,Raymondside,12th,3.1,6.8,84,5,Education,1,1.4,85,8.7,7.3
+779,Miss Lisa Kennedy,19,Male,North Joseph,9th,8.1,7.1,77,7,Gaming,4,0.9,22,5.6,10
+780,Robert Holland,18,Other,East Kelly,10th,3,7.3,92,9,Education,5,0.4,72,5,7.4
+781,Raymond Callahan,17,Other,Butlerstad,10th,3.8,6.4,78,6,Browsing,3,1,25,7,7.8
+782,Eric Kline DDS,13,Other,West Peterfurt,10th,3.9,8.4,98,9,Browsing,6,1.2,82,11,9
+783,Jeffrey Walker,18,Other,Markmouth,10th,5.1,4,98,10,Other,6,0.6,138,5.2,10
+784,Kathryn Romero,17,Female,West Nancyfort,8th,3.8,6.3,65,1,Browsing,2,1.5,83,5.9,10
+785,Craig Morales,16,Female,Patriciatown,9th,5.8,6.4,53,7,Browsing,6,0.6,100,6.9,8.3
+786,Amy Woods,19,Male,South Katieshire,11th,3.9,7.2,66,10,Social Media,5,1,84,4.7,10
+787,Sheila Woodward,18,Male,Montoyaville,9th,8.4,6,88,3,Social Media,4,0.8,77,4.4,10
+788,Richard Dawson,16,Male,West Jody,8th,4.8,7.7,50,2,Social Media,4,0.9,102,8.9,7.4
+789,Rachel Richardson,18,Male,Wagnertown,12th,3.4,7.3,82,6,Gaming,1,0.6,51,3,5.3
+790,Ethan Marquez,19,Male,Port Zacharyborough,7th,4.7,5.2,99,5,Gaming,2,0.2,36,0.7,10
+791,Mary Booker,18,Male,North Josephmouth,11th,6.8,7.9,97,3,Education,10,0.4,126,5.9,10
+792,Michael Young,13,Other,Amychester,7th,6.7,5.2,59,4,Social Media,5,1.5,68,2,10
+793,Krystal Ellis,15,Female,New Denise,8th,1.5,9,95,8,Gaming,1,0.5,84,4.6,6.5
+794,Andrew Brown,13,Female,Nixonville,9th,3.8,5.5,96,10,Social Media,5,1.3,102,6.8,10
+795,Yvonne Davis,14,Female,Peterside,9th,3.7,6.9,65,2,Social Media,6,1,149,6.1,6.4
+796,Kyle Woodard,19,Female,Bakertown,7th,1.5,6.3,87,6,Social Media,4,1.4,45,8.1,6.7
+797,Christopher Chavez,15,Female,Davidhaven,11th,6.6,7.6,61,6,Other,2,0,28,5.4,10
+798,Lisa Snow,16,Other,South Lisaport,12th,6.6,9.1,64,6,Social Media,7,0.8,147,7.8,10
+799,Joshua Welch,13,Other,Port Jason,7th,4.3,7.4,72,3,Other,3,1.5,32,8,9.4
+800,Zachary Moore,16,Male,Lake Emilyhaven,9th,7.8,5.5,96,8,Gaming,6,1.1,74,6.8,10
+801,Lindsay Fry,18,Male,Sherryfort,7th,7.1,6.8,86,4,Education,7,0.9,45,7.1,9.7
+802,Savannah Gonzales,17,Other,Lake Jacqueline,7th,5.3,4.5,96,5,Gaming,1,2,108,4.8,10
+803,Linda Moore,16,Male,Lozanoport,11th,5.9,7.9,77,1,Social Media,3,1.5,132,3.6,8.9
+804,Joan Mooney,17,Male,South Travis,12th,4.5,6,81,2,Education,2,1.2,58,4.8,10
+805,Matthew Pena,17,Female,East Michaelville,7th,5.6,9.7,95,8,Social Media,2,1.3,128,8.3,6.4
+806,Donna Martinez,19,Male,Andrewsmouth,12th,4.5,6.8,85,1,Other,4,1.1,143,6.3,8.2
+807,Stacey Mercer MD,14,Female,Amyland,7th,6.9,6.4,85,6,Gaming,6,1.5,124,6.6,10
+808,Brendan Mcdaniel,13,Other,Georgeton,10th,4.5,6.4,61,10,Education,7,1.4,121,6.5,8.3
+809,Marcus Villanueva,13,Male,Marieberg,9th,7.1,8.3,55,3,Social Media,1,0.9,29,9.2,10
+810,Jesse Gonzalez,16,Other,South Brandonfurt,7th,4.9,6.7,52,9,Gaming,8,0.1,67,6.1,7.5
+811,Dr. Jordan Hamilton,14,Female,Williamsside,7th,4.9,6.8,58,10,Gaming,2,1.7,72,10.6,10
+812,Elizabeth Horn,19,Male,North Michaelton,12th,4.8,9.1,75,2,Browsing,1,0.4,103,5.3,9.5
+813,Ashley Ingram,19,Female,Sawyerchester,10th,7.6,7.5,61,4,Other,7,0.6,100,5.6,10
+814,Jason Mccann,17,Female,Cynthiastad,9th,3.2,5.9,60,3,Other,5,1.6,102,4.8,9.3
+815,Jennifer Cabrera,14,Other,New Hannahmouth,11th,5.8,9.7,90,9,Browsing,8,0.7,133,5.6,10
+816,Sean Dillon,19,Female,Santiagofort,7th,4.3,6.6,68,5,Gaming,3,0.8,150,9.8,9
+817,Dylan Brown,13,Male,Lake Sharon,10th,6.5,4.5,90,4,Gaming,3,1.5,82,2,10
+818,Amber Erickson,15,Female,Klineburgh,11th,4.3,7.8,73,3,Education,1,2,69,7.5,9
+819,Lisa Smith,19,Other,Carlsonview,12th,3.5,5.6,86,1,Other,2,0.5,65,7.6,5.3
+820,Miguel Williams,13,Male,East Brianstad,9th,5.9,8.1,65,5,Education,1,1.8,140,7.5,10
+821,Veronica Kramer,15,Male,Suzanneland,10th,2.5,3.4,87,7,Gaming,8,1.3,55,7.9,9.5
+822,Peter Villa,14,Female,Frankborough,10th,5.5,5.7,92,10,Browsing,1,1.2,91,3.9,10
+823,Elizabeth Myers,18,Other,South Nathan,11th,4.2,6.3,51,1,Education,8,0,27,10.6,6.6
+824,Adam Young,16,Male,Matthewstad,9th,0,7.1,78,8,Education,1,0.4,22,7.3,6
+825,Evan Henry,16,Female,Bradfordstad,10th,8.3,3.3,54,1,Education,9,0.2,75,5.8,10
+826,Lisa Ross,17,Other,North Jodi,7th,6.1,7.6,75,5,Social Media,2,0.4,69,8.4,10
+827,Wendy Huerta,14,Male,North Davidhaven,10th,4.4,6,98,8,Other,3,1,95,6.8,10
+828,Melissa Snyder,15,Male,Penaborough,10th,2.2,5.5,72,5,Social Media,4,1.1,131,4.7,6.5
+829,Pamela Collins,15,Female,South Christopherville,12th,7,8.2,68,3,Gaming,1,1.1,148,5.4,10
+830,Nicole Sanders,14,Male,West Johnhaven,9th,3.8,6.8,78,2,Browsing,2,1.2,43,8,7
+831,Michael Garcia,14,Male,Greenstad,8th,5.7,6.2,99,6,Gaming,2,1.2,36,6.4,8.5
+832,Debbie Floyd,15,Female,East Ashleyshire,7th,9.1,6,56,10,Browsing,8,0,120,3.4,10
+833,David Newton,19,Other,West Scott,10th,2.8,7.1,64,4,Social Media,7,0.8,109,4.6,7.9
+834,Dylan Spencer,18,Female,West Jared,12th,2.2,6,83,8,Gaming,5,0.5,92,4.4,7.3
+835,Jason Smith,18,Female,Wardmouth,11th,7,5.1,96,2,Other,10,0.8,142,4.7,10
+836,Kimberly Brown,16,Male,Robertside,7th,4.8,8.6,59,5,Browsing,8,0.6,93,6.2,8.8
+837,Jerome Grant,15,Male,Gallagherland,8th,7.9,9.7,84,3,Gaming,6,0.7,47,6.8,10
+838,Kevin Wagner MD,15,Female,New Stephaniemouth,7th,3.9,7,90,6,Social Media,6,0.5,143,5.2,9.2
+839,Dawn Henry,13,Male,Johnhaven,8th,5.2,6.4,61,5,Education,1,0.8,136,5.7,10
+840,Michael Strickland,15,Male,Jonesborough,12th,5.9,7.4,84,10,Education,10,1.5,49,4.1,9.3
+841,Randy Hunt,14,Male,Jennybury,12th,2.1,4.6,57,3,Education,9,1,86,5.4,8.5
+842,Michael Maldonado,18,Other,Lake Michael,8th,4.3,7.8,78,6,Education,9,0.9,42,7.6,7
+843,John Fletcher,16,Other,Jimenezside,8th,5.6,6.9,96,10,Education,10,1.2,87,6.5,10
+844,Joseph Taylor,18,Male,Lake Nicole,12th,5,8.5,55,8,Social Media,7,0.7,133,6,6.3
+845,Henry Acosta,19,Female,Greeneland,7th,6,6.9,77,4,Gaming,5,0.9,54,8.2,7.8
+846,David Cox,18,Female,Gonzalezton,10th,3.3,8.7,72,10,Education,4,0,144,10.4,5.9
+847,Daniel Rowland,19,Male,East Jonathan,10th,4.2,8.3,81,9,Education,10,0.4,96,5.3,10
+848,Samantha Castillo,17,Male,Douglasport,11th,5,7.1,74,9,Browsing,9,1,66,9.3,10
+849,Frank Davis,19,Female,West Kelly,10th,7.3,4.9,73,10,Browsing,3,1.2,33,7,10
+850,Bradley Brooks,17,Other,Port David,12th,7,5,50,5,Other,10,1.3,51,7.9,10
+851,Patricia Mcfarland,18,Male,Derekborough,10th,3,3.1,66,3,Gaming,6,1.4,33,5.5,10
+852,Rebekah Martinez,17,Other,South Maurice,7th,6.1,4.6,85,5,Gaming,5,0.1,39,5.8,8.6
+853,April Patton,18,Other,Port Michaelhaven,10th,3.4,4.4,85,9,Other,6,0,51,4.7,8.8
+854,Kathryn Anderson,15,Other,Port Katie,12th,6.3,6.9,71,6,Gaming,6,0.8,32,4.2,10
+855,Michael Campbell,18,Female,Hicksburgh,9th,4.7,8.6,73,10,Other,6,0.7,115,7.3,9.2
+856,Joseph Johnson,19,Other,Parkerburgh,7th,6.1,5.3,75,7,Browsing,4,1.8,58,5.3,10
+857,Ashley Mathews,17,Other,South Sandra,10th,5.2,5.7,53,5,Gaming,2,1.1,24,4.8,8.3
+858,Derek Moore,14,Female,Candicechester,12th,4.4,3,94,2,Social Media,7,0.2,142,7.3,10
+859,Jennifer Navarro,16,Other,West Gary,10th,3.1,6.3,59,6,Other,2,0.6,39,3,9.9
+860,Felicia Prince,15,Other,Zacharyland,7th,6.1,5.8,99,8,Gaming,7,0.2,66,8.9,10
+861,Tracey Green,16,Male,Ortizview,9th,7.7,3.5,71,2,Gaming,5,0.9,32,5.6,10
+862,Joel Patterson,18,Other,Jessicabury,8th,8.1,7.8,84,2,Browsing,2,0.9,53,7,9.3
+863,Ronald Robertson,15,Female,West Amber,8th,5.3,8.8,99,4,Other,4,1.3,119,6.2,9.1
+864,Nicholas Brown,13,Other,South Jose,7th,4,6,51,4,Other,4,0.3,113,7.4,10
+865,Jennifer Chavez,14,Female,Robertside,11th,4.5,6.2,97,3,Browsing,8,1,90,8.9,8.1
+866,Sheila Powell,15,Male,New Davidhaven,11th,5.4,6.1,80,1,Gaming,6,0.8,108,1.4,9.1
+867,Melissa Johnson,18,Female,North Austin,9th,5,5,77,7,Education,9,0.4,124,7.5,10
+868,Erin Green,16,Female,Jonesfurt,11th,4.5,3.1,74,2,Social Media,7,1.2,45,5.4,10
+869,Frederick Roberts,16,Other,Port Ronaldmouth,9th,2.9,8,76,4,Other,4,0.7,128,3.6,4.2
+870,Jeffrey Jordan,19,Male,South Michael,8th,4.5,8.7,100,5,Browsing,2,1,127,5.5,9
+871,Jeremy Stone,18,Female,East Tiffanyton,9th,7.1,7.7,99,3,Gaming,7,0.7,96,6.7,10
+872,Debbie Walters,18,Male,Thomasville,12th,5.4,9.2,57,3,Gaming,6,0.1,66,8.9,6.7
+873,Troy Stephens,13,Female,Port Joyborough,11th,5.5,9.3,57,2,Gaming,6,0.8,119,5.1,10
+874,Savannah Taylor,15,Male,South Colleenborough,12th,1.9,6.3,61,7,Browsing,2,1,26,8,6.6
+875,Mark Caldwell,18,Other,Joneschester,10th,3.7,7.1,64,3,Browsing,7,0.9,148,6.2,10
+876,Samuel Johnson,16,Female,New Gregory,9th,6.7,4.6,85,8,Education,4,2.1,115,4.7,10
+877,Kristen Moore,14,Other,East Alyssaside,9th,4.5,5.6,95,1,Gaming,4,1,27,9.2,10
+878,Donna Wood,18,Other,Stevenshire,11th,7.8,8,61,1,Education,1,1.1,89,8.8,10
+879,Michael Johnson,16,Male,New Lori,9th,4.1,6.2,61,3,Social Media,1,1.3,46,4.4,9.6
+880,Duane Rivers,16,Female,North Alexton,10th,5,6.1,53,1,Education,9,0.6,85,6.6,9
+881,Robin Dougherty,15,Other,South Jasmine,11th,1.3,7.4,77,8,Other,2,1.6,106,5.9,7.2
+882,Bridget Santos,18,Other,South Bobbyland,10th,10.6,6.7,79,4,Education,1,0.5,97,7.4,10
+883,Autumn Walters,14,Other,North Terry,9th,4.7,5.6,65,8,Other,10,1.5,125,7.9,10
+884,Shelley Bass,19,Other,Sherryburgh,11th,7.1,3.8,91,7,Education,1,1.3,67,4.1,10
+885,Joseph Avila,18,Other,Davidberg,8th,7.3,3.5,83,5,Social Media,8,1.1,20,4.4,10
+886,Evelyn Martin,16,Male,Deborahfort,7th,6.6,7,60,5,Social Media,6,1.1,66,6.2,10
+887,Cheryl Castillo,18,Other,Paigefort,8th,4.1,5,54,7,Education,8,0.7,31,7.7,8.4
+888,Erika Dean,16,Other,Margaretville,11th,6.6,5.4,58,3,Browsing,6,2.3,83,6.2,10
+889,John Sullivan,19,Female,Port Peterhaven,9th,4.2,7.4,98,10,Education,7,0.3,65,14,7.9
+890,Angela Johnson,13,Female,Holmesburgh,12th,8.2,6.9,50,6,Browsing,3,1.2,22,3.1,8.7
+891,Nancy Anderson,14,Female,Lake John,8th,6.5,4.9,90,8,Social Media,9,1.1,46,8.7,10
+892,Melissa Griffith,14,Male,Port Michaelfurt,10th,4.3,8.4,61,2,Other,10,1.1,147,4.2,7.8
+893,Whitney Montes,16,Male,West Taylor,10th,4.7,4.9,90,3,Gaming,6,1.8,101,6.4,10
+894,Scott Glass,16,Female,Morrowmouth,7th,6.6,5.4,51,2,Education,9,1.5,114,4.1,10
+895,Bruce Harmon,15,Male,East Wayneland,10th,5.6,8,70,7,Social Media,3,1.1,128,7.2,10
+896,Andrew Martin,19,Male,Phillipsfort,12th,4.4,6.1,76,3,Social Media,8,1.4,58,6,8.5
+897,Alejandro Jennings,19,Female,Kaylaport,7th,3.1,5.7,53,3,Gaming,3,0.5,46,4.6,9.7
+898,James Barrett,15,Female,Mooremouth,8th,4.3,6.7,93,2,Browsing,3,1.9,74,2.9,8.1
+899,Joshua Mendoza,13,Male,Parsonsshire,9th,7.4,4.3,97,4,Education,5,1.7,69,2.3,10
+900,Gabriela Waters,14,Female,Kristentown,7th,6.2,5.2,65,8,Social Media,1,1,104,6.2,10
+901,Tiffany Mcdonald,19,Male,Kingport,9th,4.3,5.8,88,10,Browsing,3,0.7,126,6,9.3
+902,Stephanie Weber,16,Other,Deborahstad,12th,6.5,4.7,71,7,Education,10,1,138,5.2,10
+903,Philip Romero,15,Male,Garciaview,8th,3.4,8.9,86,7,Gaming,3,2.4,43,3.4,7.1
+904,Eric Baldwin,16,Other,East Heidi,12th,4.9,6.8,56,2,Social Media,5,0.6,86,8.7,10
+905,Tina Fuller,18,Other,Heiditown,11th,8.7,5.4,86,1,Education,4,0.7,141,5.2,10
+906,Phillip Goodman,16,Female,South Joan,7th,8.2,5.3,65,3,Browsing,2,1.3,90,4,10
+907,John Allen,16,Female,Margaretburgh,11th,5.7,6.5,69,3,Browsing,10,0.7,57,8,9
+908,Jose Wagner,13,Other,Amandatown,12th,6.6,4.6,80,3,Social Media,6,0.8,144,6.3,10
+909,Franklin Russell,16,Male,Mathisport,8th,4.9,4.6,59,10,Social Media,1,1.1,94,5.7,10
+910,James West,16,Male,West Nicole,11th,5.8,6.3,64,5,Gaming,7,1.1,35,7.3,10
+911,Cynthia Burke,19,Male,Lake Holly,9th,7.1,7,83,5,Education,9,0.9,75,8.3,10
+912,Margaret Thompson,14,Female,West Dominichaven,12th,6.3,7.6,58,1,Social Media,7,1.3,34,5.2,7.4
+913,Tony Bowers,19,Female,Rebeccaville,8th,5.1,5.8,71,5,Gaming,9,0.8,133,1,10
+914,Chase Knapp,16,Other,Ashleyport,10th,9,7.1,73,9,Social Media,7,1.9,29,5.7,10
+915,Dr. Travis Estrada,14,Female,Michelleburgh,7th,4.2,8.1,78,9,Gaming,1,0.4,110,2.2,10
+916,Mrs. Andrea Figueroa,17,Other,Jefferymouth,11th,2.9,6.2,50,2,Education,6,1.5,56,5.2,6
+917,Michael May,15,Female,Jaredtown,11th,3.1,4.6,90,5,Social Media,8,1.5,85,3.2,8.6
+918,Timothy Taylor,15,Female,Thomasmouth,12th,5.5,6.5,67,10,Browsing,7,1.8,120,3.9,10
+919,Shawn Finley,19,Female,Lake Kelly,7th,6.4,5,74,1,Browsing,4,0.9,66,7.6,10
+920,Kenneth Carlson,15,Female,Madisonstad,11th,6,7.7,97,2,Other,3,0.8,144,6.2,10
+921,Holly Massey,14,Other,Port Benjamin,9th,4.4,7,91,4,Social Media,6,0.3,104,5,10
+922,Mrs. Alisha Moore MD,14,Male,Marshalltown,10th,9.3,6.8,94,5,Other,1,1.2,97,5.7,10
+923,Daniel Walton,13,Female,Emilyborough,8th,3.8,8,70,4,Browsing,5,1.6,70,8,10
+924,Marisa Bryant,17,Female,Sharpport,9th,8.5,5,61,10,Gaming,5,0.4,76,4,10
+925,Zachary Russell,14,Other,Port Carolineborough,9th,2.7,5.7,76,1,Browsing,9,1.1,60,6.1,5.4
+926,Deborah Mendez,19,Male,West Charles,12th,5.7,4.8,64,9,Education,5,2,106,8.6,10
+927,Michael Richard,19,Other,New Robin,7th,5.3,6.9,51,9,Gaming,4,1.4,143,3.5,10
+928,Kayla Jenkins,19,Female,Andrewtown,9th,7.9,5.1,91,6,Browsing,10,0.7,116,3.5,10
+929,Mark Thomas,19,Other,Lake Nicolefurt,7th,7.4,7.6,58,9,Social Media,4,1,129,4.2,10
+930,Nina Humphrey,13,Male,New Carlabury,7th,8.4,7.7,100,8,Gaming,1,1.6,47,4,10
+931,Alicia Ayala,16,Other,Conradland,11th,2.8,6.9,77,8,Other,2,1.8,93,7.8,7.5
+932,Kevin Page,19,Female,Brownport,10th,6.8,8.6,73,6,Education,2,0.9,66,5.5,10
+933,Edward Palmer,14,Other,Port Stephen,11th,5.1,3.4,96,2,Browsing,10,1.3,104,3.3,10
+934,Walter Howell,16,Male,Shannonport,7th,5.8,5.3,99,2,Gaming,10,0.4,41,4.1,10
+935,Timothy Adams,13,Other,New Larry,9th,6.1,7.2,72,6,Browsing,3,0.9,140,4.7,10
+936,Devon Coffey,15,Other,Mcculloughville,7th,2.7,4.5,100,2,Social Media,4,1.1,116,1.9,8.6
+937,Richard Smith,18,Female,Michaelchester,7th,7.4,5.4,83,8,Social Media,4,1.4,75,6.5,10
+938,Karen Lynch,16,Female,Jacobville,11th,0.9,6.3,85,6,Education,5,0.6,36,3.3,3.1
+939,Jeffrey Davis,16,Other,South Marie,11th,3.5,6.6,74,10,Other,1,1.1,126,5.1,7.8
+940,Reginald Calhoun,13,Male,West Cody,10th,0.9,3.8,79,8,Browsing,1,0.8,72,6.6,9.6
+941,Anthony Smith,16,Female,South Dalehaven,11th,6.1,4.5,83,10,Browsing,7,1.4,41,5.5,10
+942,Anthony Allen,15,Other,Port Austin,10th,3.4,9.2,81,2,Gaming,2,1,112,6,9
+943,Michael Wilkerson,15,Male,New David,12th,3.9,9.1,100,9,Other,8,1.1,116,8.9,7.5
+944,Jackson Martinez,15,Other,Walshbury,12th,5,8.7,84,10,Other,3,1.6,117,6.4,9.2
+945,Amy Fox,15,Male,New Shirleybury,9th,7.8,6.8,98,10,Gaming,8,0.8,39,6,10
+946,Mr. Mitchell Smith,18,Female,New Phillipland,8th,1.3,7.7,79,5,Social Media,1,1.3,104,9.9,6.6
+947,Jeffrey Jones,13,Male,Baldwinborough,10th,8.7,7.3,66,6,Other,2,1.2,95,8.8,10
+948,George Lewis,14,Female,Port Cindy,7th,4.2,4.8,56,6,Education,4,1.2,115,9.4,10
+949,Thomas Schneider,14,Other,New Jessechester,12th,5.1,10,95,10,Other,2,1.1,67,5.6,7.4
+950,Jeffrey Ramsey,16,Female,Lake David,8th,3.5,5.3,57,8,Social Media,10,0.8,47,5.6,9.6
+951,Paul Jenkins,16,Female,North Michael,7th,5.8,6.6,63,2,Browsing,4,0.2,48,4.7,7.1
+952,Emily Flynn,17,Other,Franklinville,12th,5.8,8.4,73,1,Gaming,10,1.1,67,7.1,8.8
+953,Ashley Lee,19,Other,Kingberg,10th,3.8,7.5,63,6,Social Media,6,1.5,83,4.7,9.5
+954,Sheila Hart,18,Other,East Carlosmouth,8th,5.9,7.6,59,6,Social Media,3,1.5,129,6.9,10
+955,Joan Aguilar,13,Other,Lake Anthony,12th,5,6.6,97,2,Education,7,1.1,116,4.8,10
+956,Dominique Allen,17,Female,Tylerhaven,8th,2,4.1,95,7,Social Media,1,0.7,38,6.4,7.1
+957,Lindsey Hawkins,15,Male,Cruzhaven,12th,4.6,4.4,88,4,Social Media,10,1.2,45,2.2,10
+958,Shelia Robinson,14,Other,Youngbury,9th,2.4,6.3,87,4,Education,3,1.7,89,3.3,5.1
+959,Angel Morris,17,Male,Lake Coryville,9th,5.4,7.1,100,10,Other,2,1.3,58,7.1,9.4
+960,Richard Henry,16,Female,Port Jamesstad,7th,3.7,7.3,62,8,Browsing,3,0.1,108,0.1,6.7
+961,Louis Cline,14,Other,South Rhonda,9th,2.4,4.6,80,6,Other,4,1,22,3.2,9
+962,Tamara Rogers,18,Other,Candacefurt,8th,4.7,7.7,97,7,Gaming,6,0.8,107,4.1,10
+963,Timothy Smith,16,Male,Michaelburgh,11th,6.9,6.6,76,3,Other,6,0.6,24,7.2,10
+964,Mr. Jeffrey Park,13,Female,East Felicia,9th,3.7,6.1,82,9,Gaming,3,1,119,5.6,9
+965,Roberta Hoover,16,Other,Jamesshire,9th,4,6.7,57,9,Education,9,1.1,123,7.7,10
+966,Deborah Shelton,17,Female,North Brianberg,11th,3.7,6.6,56,4,Browsing,10,1.1,108,3.3,10
+967,Vanessa Williams,17,Other,South Stevenport,10th,4.2,6.6,85,1,Browsing,4,1.1,46,4.4,9.9
+968,Joshua Sullivan,13,Other,Millerberg,7th,5,6.9,78,4,Social Media,7,0.9,75,6.6,7.8
+969,Heather Caldwell,16,Other,West Russellshire,8th,8.7,5.7,65,6,Browsing,6,0.7,38,6.6,10
+970,Andrew Bray,13,Female,Mahoneyland,10th,4.2,6.3,90,9,Social Media,10,0.4,59,10.8,5.6
+971,Amy Duncan,17,Other,Georgeberg,11th,3.8,4.6,93,3,Gaming,7,1.8,64,6.7,9.4
+972,Steven Estrada,18,Other,East Wanda,12th,4.4,7,61,6,Browsing,8,1.3,110,0.2,7.8
+973,Olivia Haynes,15,Female,Scottton,8th,4,7.5,51,10,Social Media,8,0.7,47,5.4,7.4
+974,Francisco Henry,15,Male,North Lauren,8th,5.1,5.1,57,9,Other,2,1.2,20,3.7,8.2
+975,Michael Lowe,19,Female,Gregoryside,12th,4.8,5.6,84,7,Other,8,1.9,95,11.2,10
+976,Leslie Parsons,14,Male,Port Markstad,11th,5.5,4.7,81,8,Education,10,0.4,60,5.6,10
+977,Dana Marshall,19,Female,West Melvin,11th,3.7,7.3,97,7,Education,4,1.5,147,7.1,9.9
+978,Alyssa Jenkins,19,Male,New Joannachester,7th,9.4,8,97,2,Social Media,8,0.7,53,6.2,10
+979,Luis Crawford,16,Other,South Brendashire,7th,5.4,9,50,6,Browsing,9,0.1,20,2,6.8
+980,Angela Walker,18,Female,Nathanland,11th,2.4,7.7,92,10,Browsing,7,2.2,37,4.9,6.8
+981,Michele Winters,18,Other,Andersonborough,10th,6.7,7.1,82,6,Other,3,0.8,56,6.9,9.5
+982,Emma Young,18,Female,East Ian,8th,5.7,5.1,70,4,Other,3,1.3,37,3.8,7.5
+983,Brooke Sanders,19,Other,Port Andrew,10th,4.8,8.9,89,10,Other,5,1.3,57,8,7.6
+984,Alyssa Massey,19,Other,Thomasmouth,10th,6.2,7.6,85,1,Education,8,1.6,37,8.9,7.9
+985,Adam Nunez,17,Female,South Elizabethshire,10th,5.5,7.9,90,6,Gaming,5,1.6,26,7.9,5.8
+986,John Flores,13,Male,North Chadfort,9th,4.8,6.4,81,6,Education,3,1.1,97,4.5,9.9
+987,Kaitlyn Wheeler,13,Female,Hunterborough,10th,6.2,6.5,99,9,Gaming,9,0,23,9,10
+988,Justin Dixon,13,Other,Donaldborough,8th,1.1,6,82,10,Other,8,0.7,29,8.9,3.2
+989,Alicia Morrison,14,Male,Amandaburgh,12th,3.1,8.6,57,3,Browsing,8,1.9,69,2.7,5.5
+990,Colleen Perkins,15,Female,Anthonyview,7th,6.8,5.2,55,2,Education,2,0.8,58,7.8,10
+991,Annette Rodriguez,15,Other,East Jacquelineland,10th,4.8,5.6,82,9,Other,6,1.9,106,6.1,10
+992,Martin Singleton,15,Female,Michaelberg,8th,3,8.5,63,8,Social Media,4,1,73,3,5.1
+993,Dana Jimenez,15,Male,South Tabitha,11th,8,5.3,68,2,Gaming,8,0.8,106,5.9,10
+994,Meagan Bradley,15,Male,Millerport,11th,3.3,6.5,51,6,Gaming,10,0.7,44,1.1,10
+995,Christine Bryant,13,Male,Cherylborough,10th,8.2,8.3,56,4,Education,4,1.2,80,1.6,10
+996,Andrew Haney,14,Other,Fosterfurt,11th,8.5,9.2,51,5,Social Media,9,1.3,104,6.9,10
+997,Morgan Weaver,19,Female,Lake Donald,9th,6.1,6.5,82,4,Browsing,1,1.1,95,5.1,10
+998,Sarah Lee,19,Male,Lake Todd,8th,5.5,9.8,75,3,Social Media,6,1,116,4.9,9.5
+999,Melissa Small,18,Male,South Margaret,12th,7.6,8,73,4,Browsing,9,0.1,140,6.6,10
+1000,Andrea Martinez,16,Male,North Jeffery,11th,6.7,8.2,93,8,Education,3,1.1,25,4.6,9.3
+1001,David Williams,17,Male,North Nathanland,10th,5.5,5.7,98,9,Other,8,0.6,93,3.3,10
+1002,Kevin Peters,19,Male,Kelleychester,10th,6.3,4.7,52,4,Other,3,1.4,112,4.4,10
+1003,Patricia Robertson,15,Male,Port Robertville,8th,4.4,9.7,71,9,Browsing,5,0,73,5.2,7.3
+1004,John Thomas,19,Other,New Luisfort,12th,4,5.8,84,1,Education,9,2.4,149,5.5,10
